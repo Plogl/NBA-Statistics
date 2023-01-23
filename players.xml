@@ -1,0 +1,4843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <player>
+    <name>Precious Achiuwa</name>
+    <rbs>473</rbs>
+    <asts>82</asts>
+    <steals>37</steals>
+    <blocks>41</blocks>
+    <pts>664</pts>
+  </player>
+  <player>
+    <name>Steven Adams</name>
+    <rbs>760</rbs>
+    <asts>256</asts>
+    <steals>65</steals>
+    <blocks>60</blocks>
+    <pts>528</pts>
+  </player>
+  <player>
+    <name>Bam Adebayo</name>
+    <rbs>564</rbs>
+    <asts>190</asts>
+    <steals>80</steals>
+    <blocks>44</blocks>
+    <pts>1068</pts>
+  </player>
+  <player>
+    <name>Santi Aldama</name>
+    <rbs>87</rbs>
+    <asts>21</asts>
+    <steals>6</steals>
+    <blocks>10</blocks>
+    <pts>132</pts>
+  </player>
+  <player>
+    <name>LaMarcus Aldridge</name>
+    <rbs>258</rbs>
+    <asts>42</asts>
+    <steals>14</steals>
+    <blocks>47</blocks>
+    <pts>607</pts>
+  </player>
+  <player>
+    <name>Nickeil Alexander-Walker</name>
+    <rbs>187</rbs>
+    <asts>156</asts>
+    <steals>46</steals>
+    <blocks>23</blocks>
+    <pts>692</pts>
+  </player>
+  <player>
+    <name>Grayson Allen</name>
+    <rbs>222</rbs>
+    <asts>100</asts>
+    <steals>46</steals>
+    <blocks>18</blocks>
+    <pts>733</pts>
+  </player>
+  <player>
+    <name>Jarrett Allen</name>
+    <rbs>602</rbs>
+    <asts>92</asts>
+    <steals>44</steals>
+    <blocks>75</blocks>
+    <pts>904</pts>
+  </player>
+  <player>
+    <name>Jose Alvarado</name>
+    <rbs>100</rbs>
+    <asts>152</asts>
+    <steals>71</steals>
+    <blocks>7</blocks>
+    <pts>330</pts>
+  </player>
+  <player>
+    <name>Justin Anderson</name>
+    <rbs>46</rbs>
+    <asts>33</asts>
+    <steals>8</steals>
+    <blocks>6</blocks>
+    <pts>102</pts>
+  </player>
+  <player>
+    <name>Kyle Anderson</name>
+    <rbs>368</rbs>
+    <asts>183</asts>
+    <steals>77</steals>
+    <blocks>45</blocks>
+    <pts>521</pts>
+  </player>
+  <player>
+    <name>Giannis Antetokounmpo</name>
+    <rbs>778</rbs>
+    <asts>388</asts>
+    <steals>72</steals>
+    <blocks>91</blocks>
+    <pts>2002</pts>
+  </player>
+  <player>
+    <name>Thanasis Antetokounmpo</name>
+    <rbs>101</rbs>
+    <asts>22</asts>
+    <steals>16</steals>
+    <blocks>12</blocks>
+    <pts>171</pts>
+  </player>
+  <player>
+    <name>Carmelo Anthony</name>
+    <rbs>288</rbs>
+    <asts>68</asts>
+    <steals>47</steals>
+    <blocks>52</blocks>
+    <pts>919</pts>
+  </player>
+  <player>
+    <name>Cole Anthony</name>
+    <rbs>348</rbs>
+    <asts>369</asts>
+    <steals>46</steals>
+    <blocks>17</blocks>
+    <pts>1062</pts>
+  </player>
+  <player>
+    <name>OG Anunoby</name>
+    <rbs>264</rbs>
+    <asts>125</asts>
+    <steals>71</steals>
+    <blocks>25</blocks>
+    <pts>822</pts>
+  </player>
+  <player>
+    <name>Ryan Arcidiacono</name>
+    <rbs>8</rbs>
+    <asts>4</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>16</pts>
+  </player>
+  <player>
+    <name>Trevor Ariza</name>
+    <rbs>82</rbs>
+    <asts>27</asts>
+    <steals>13</steals>
+    <blocks>6</blocks>
+    <pts>96</pts>
+  </player>
+  <player>
+    <name>D.J. Augustin</name>
+    <rbs>68</rbs>
+    <asts>107</asts>
+    <steals>17</steals>
+    <blocks>1</blocks>
+    <pts>294</pts>
+  </player>
+  <player>
+    <name>Deni Avdija</name>
+    <rbs>425</rbs>
+    <asts>167</asts>
+    <steals>59</steals>
+    <blocks>44</blocks>
+    <pts>685</pts>
+  </player>
+  <player>
+    <name>Joel Ayayi</name>
+    <rbs>3</rbs>
+    <asts>4</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>2</pts>
+  </player>
+  <player>
+    <name>Deandre Ayton</name>
+    <rbs>593</rbs>
+    <asts>84</asts>
+    <steals>40</steals>
+    <blocks>40</blocks>
+    <pts>997</pts>
+  </player>
+  <player>
+    <name>Udoka Azubuike</name>
+    <rbs>71</rbs>
+    <asts>0</asts>
+    <steals>1</steals>
+    <blocks>11</blocks>
+    <pts>80</pts>
+  </player>
+  <player>
+    <name>Marvin Bagley III</name>
+    <rbs>338</rbs>
+    <asts>36</asts>
+    <steals>22</steals>
+    <blocks>18</blocks>
+    <pts>540</pts>
+  </player>
+  <player>
+    <name>LaMelo Ball</name>
+    <rbs>501</rbs>
+    <asts>571</asts>
+    <steals>119</steals>
+    <blocks>30</blocks>
+    <pts>1508</pts>
+  </player>
+  <player>
+    <name>Lonzo Ball</name>
+    <rbs>190</rbs>
+    <asts>178</asts>
+    <steals>64</steals>
+    <blocks>31</blocks>
+    <pts>455</pts>
+  </player>
+  <player>
+    <name>Mo Bamba</name>
+    <rbs>572</rbs>
+    <asts>85</asts>
+    <steals>38</steals>
+    <blocks>118</blocks>
+    <pts>756</pts>
+  </player>
+  <player>
+    <name>Desmond Bane</name>
+    <rbs>334</rbs>
+    <asts>208</asts>
+    <steals>92</steals>
+    <blocks>29</blocks>
+    <pts>1384</pts>
+  </player>
+  <player>
+    <name>Dalano Banton</name>
+    <rbs>124</rbs>
+    <asts>99</asts>
+    <steals>28</steals>
+    <blocks>10</blocks>
+    <pts>205</pts>
+  </player>
+  <player>
+    <name>Cat Barber</name>
+    <rbs>3</rbs>
+    <asts>3</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>Harrison Barnes</name>
+    <rbs>432</rbs>
+    <asts>186</asts>
+    <steals>53</steals>
+    <blocks>14</blocks>
+    <pts>1265</pts>
+  </player>
+  <player>
+    <name>Scottie Barnes</name>
+    <rbs>557</rbs>
+    <asts>256</asts>
+    <steals>80</steals>
+    <blocks>55</blocks>
+    <pts>1134</pts>
+  </player>
+  <player>
+    <name>RJ Barrett</name>
+    <rbs>408</rbs>
+    <asts>208</asts>
+    <steals>43</steals>
+    <blocks>16</blocks>
+    <pts>1402</pts>
+  </player>
+  <player>
+    <name>Will Barton</name>
+    <rbs>340</rbs>
+    <asts>276</asts>
+    <steals>55</steals>
+    <blocks>31</blocks>
+    <pts>1043</pts>
+  </player>
+  <player>
+    <name>Paris Bass</name>
+    <rbs>4</rbs>
+    <asts>0</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>6</pts>
+  </player>
+  <player>
+    <name>Charles Bassey</name>
+    <rbs>62</rbs>
+    <asts>7</asts>
+    <steals>5</steals>
+    <blocks>17</blocks>
+    <pts>69</pts>
+  </player>
+  <player>
+    <name>Keita Bates-Diop</name>
+    <rbs>231</rbs>
+    <asts>41</asts>
+    <steals>27</steals>
+    <blocks>14</blocks>
+    <pts>335</pts>
+  </player>
+  <player>
+    <name>Nicolas Batum</name>
+    <rbs>254</rbs>
+    <asts>100</asts>
+    <steals>58</steals>
+    <blocks>42</blocks>
+    <pts>491</pts>
+  </player>
+  <player>
+    <name>Kent Bazemore</name>
+    <rbs>69</rbs>
+    <asts>34</asts>
+    <steals>25</steals>
+    <blocks>9</blocks>
+    <pts>132</pts>
+  </player>
+  <player>
+    <name>Darius Bazley</name>
+    <rbs>436</rbs>
+    <asts>97</asts>
+    <steals>58</steals>
+    <blocks>70</blocks>
+    <pts>745</pts>
+  </player>
+  <player>
+    <name>Bradley Beal</name>
+    <rbs>189</rbs>
+    <asts>265</asts>
+    <steals>36</steals>
+    <blocks>15</blocks>
+    <pts>928</pts>
+  </player>
+  <player>
+    <name>Malik Beasley</name>
+    <rbs>227</rbs>
+    <asts>116</asts>
+    <steals>43</steals>
+    <blocks>12</blocks>
+    <pts>953</pts>
+  </player>
+  <player>
+    <name>Jordan Bell</name>
+    <rbs>1</rbs>
+    <asts>0</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>DeAndre' Bembry</name>
+    <rbs>163</rbs>
+    <asts>66</asts>
+    <steals>49</steals>
+    <blocks>25</blocks>
+    <pts>284</pts>
+  </player>
+  <player>
+    <name>Dāvis Bertāns</name>
+    <rbs>117</rbs>
+    <asts>31</asts>
+    <steals>17</steals>
+    <blocks>12</blocks>
+    <pts>311</pts>
+  </player>
+  <player>
+    <name>Patrick Beverley</name>
+    <rbs>240</rbs>
+    <asts>268</asts>
+    <steals>67</steals>
+    <blocks>52</blocks>
+    <pts>533</pts>
+  </player>
+  <player>
+    <name>Saddiq Bey</name>
+    <rbs>441</rbs>
+    <asts>233</asts>
+    <steals>73</steals>
+    <blocks>16</blocks>
+    <pts>1321</pts>
+  </player>
+  <player>
+    <name>Khem Birch</name>
+    <rbs>239</rbs>
+    <asts>56</asts>
+    <steals>30</steals>
+    <blocks>26</blocks>
+    <pts>247</pts>
+  </player>
+  <player>
+    <name>Goga Bitadze</name>
+    <rbs>177</rbs>
+    <asts>55</asts>
+    <steals>21</steals>
+    <blocks>42</blocks>
+    <pts>349</pts>
+  </player>
+  <player>
+    <name>Bismack Biyombo</name>
+    <rbs>167</rbs>
+    <asts>23</asts>
+    <steals>12</steals>
+    <blocks>26</blocks>
+    <pts>210</pts>
+  </player>
+  <player>
+    <name>Nemanja Bjelica</name>
+    <rbs>294</rbs>
+    <asts>159</asts>
+    <steals>41</steals>
+    <blocks>26</blocks>
+    <pts>433</pts>
+  </player>
+  <player>
+    <name>Eric Bledsoe</name>
+    <rbs>182</rbs>
+    <asts>225</asts>
+    <steals>69</steals>
+    <blocks>19</blocks>
+    <pts>534</pts>
+  </player>
+  <player>
+    <name>Keljin Blevins</name>
+    <rbs>45</rbs>
+    <asts>19</asts>
+    <steals>13</steals>
+    <blocks>1</blocks>
+    <pts>95</pts>
+  </player>
+  <player>
+    <name>Bogdan Bogdanović</name>
+    <rbs>250</rbs>
+    <asts>194</asts>
+    <steals>68</steals>
+    <blocks>14</blocks>
+    <pts>950</pts>
+  </player>
+  <player>
+    <name>Bojan Bogdanović</name>
+    <rbs>296</rbs>
+    <asts>120</asts>
+    <steals>34</steals>
+    <blocks>1</blocks>
+    <pts>1248</pts>
+  </player>
+  <player>
+    <name>Bol Bol</name>
+    <rbs>20</rbs>
+    <asts>5</asts>
+    <steals>1</steals>
+    <blocks>2</blocks>
+    <pts>33</pts>
+  </player>
+  <player>
+    <name>Leandro Bolmaro</name>
+    <rbs>43</rbs>
+    <asts>21</asts>
+    <steals>6</steals>
+    <blocks>0</blocks>
+    <pts>50</pts>
+  </player>
+  <player>
+    <name>Isaac Bonga</name>
+    <rbs>7</rbs>
+    <asts>4</asts>
+    <steals>8</steals>
+    <blocks>2</blocks>
+    <pts>12</pts>
+  </player>
+  <player>
+    <name>Devin Booker</name>
+    <rbs>342</rbs>
+    <asts>329</asts>
+    <steals>77</steals>
+    <blocks>26</blocks>
+    <pts>1822</pts>
+  </player>
+  <player>
+    <name>Brandon Boston Jr.</name>
+    <rbs>111</rbs>
+    <asts>51</asts>
+    <steals>26</steals>
+    <blocks>13</blocks>
+    <pts>343</pts>
+  </player>
+  <player>
+    <name>Chris Boucher</name>
+    <rbs>494</rbs>
+    <asts>25</asts>
+    <steals>49</steals>
+    <blocks>75</blocks>
+    <pts>754</pts>
+  </player>
+  <player>
+    <name>James Bouknight</name>
+    <rbs>52</rbs>
+    <asts>26</asts>
+    <steals>7</steals>
+    <blocks>1</blocks>
+    <pts>142</pts>
+  </player>
+  <player>
+    <name>Avery Bradley</name>
+    <rbs>136</rbs>
+    <asts>47</asts>
+    <steals>53</steals>
+    <blocks>9</blocks>
+    <pts>394</pts>
+  </player>
+  <player>
+    <name>Tony Bradley</name>
+    <rbs>186</rbs>
+    <asts>27</asts>
+    <steals>10</steals>
+    <blocks>33</blocks>
+    <pts>163</pts>
+  </player>
+  <player>
+    <name>Ignas Brazdeikis</name>
+    <rbs>72</rbs>
+    <asts>37</asts>
+    <steals>10</steals>
+    <blocks>3</blocks>
+    <pts>210</pts>
+  </player>
+  <player>
+    <name>Mikal Bridges</name>
+    <rbs>347</rbs>
+    <asts>185</asts>
+    <steals>96</steals>
+    <blocks>36</blocks>
+    <pts>1162</pts>
+  </player>
+  <player>
+    <name>Miles Bridges</name>
+    <rbs>559</rbs>
+    <asts>300</asts>
+    <steals>74</steals>
+    <blocks>67</blocks>
+    <pts>1613</pts>
+  </player>
+  <player>
+    <name>Oshae Brissett</name>
+    <rbs>358</rbs>
+    <asts>72</asts>
+    <steals>44</steals>
+    <blocks>29</blocks>
+    <pts>613</pts>
+  </player>
+  <player>
+    <name>Malcolm Brogdon</name>
+    <rbs>185</rbs>
+    <asts>212</asts>
+    <steals>30</steals>
+    <blocks>14</blocks>
+    <pts>687</pts>
+  </player>
+  <player>
+    <name>Armoni Brooks</name>
+    <rbs>103</rbs>
+    <asts>62</asts>
+    <steals>28</steals>
+    <blocks>11</blocks>
+    <pts>288</pts>
+  </player>
+  <player>
+    <name>Dillon Brooks</name>
+    <rbs>102</rbs>
+    <asts>88</asts>
+    <steals>36</steals>
+    <blocks>8</blocks>
+    <pts>590</pts>
+  </player>
+  <player>
+    <name>Bruce Brown</name>
+    <rbs>345</rbs>
+    <asts>148</asts>
+    <steals>77</steals>
+    <blocks>52</blocks>
+    <pts>647</pts>
+  </player>
+  <player>
+    <name>Charlie Brown Jr.</name>
+    <rbs>32</rbs>
+    <asts>6</asts>
+    <steals>10</steals>
+    <blocks>4</blocks>
+    <pts>30</pts>
+  </player>
+  <player>
+    <name>Chaundee Brown Jr.</name>
+    <rbs>16</rbs>
+    <asts>4</asts>
+    <steals>2</steals>
+    <blocks>0</blocks>
+    <pts>31</pts>
+  </player>
+  <player>
+    <name>Greg Brown III</name>
+    <rbs>135</rbs>
+    <asts>35</asts>
+    <steals>26</steals>
+    <blocks>24</blocks>
+    <pts>225</pts>
+  </player>
+  <player>
+    <name>Jaylen Brown</name>
+    <rbs>404</rbs>
+    <asts>231</asts>
+    <steals>70</steals>
+    <blocks>18</blocks>
+    <pts>1559</pts>
+  </player>
+  <player>
+    <name>Moses Brown</name>
+    <rbs>135</rbs>
+    <asts>1</asts>
+    <steals>7</steals>
+    <blocks>16</blocks>
+    <pts>171</pts>
+  </player>
+  <player>
+    <name>Sterling Brown</name>
+    <rbs>149</rbs>
+    <asts>34</asts>
+    <steals>14</steals>
+    <blocks>7</blocks>
+    <pts>160</pts>
+  </player>
+  <player>
+    <name>Troy Brown Jr.</name>
+    <rbs>203</rbs>
+    <asts>66</asts>
+    <steals>36</steals>
+    <blocks>5</blocks>
+    <pts>283</pts>
+  </player>
+  <player>
+    <name>Jalen Brunson</name>
+    <rbs>309</rbs>
+    <asts>377</asts>
+    <steals>66</steals>
+    <blocks>3</blocks>
+    <pts>1285</pts>
+  </player>
+  <player>
+    <name>Thomas Bryant</name>
+    <rbs>108</rbs>
+    <asts>23</asts>
+    <steals>6</steals>
+    <blocks>21</blocks>
+    <pts>201</pts>
+  </player>
+  <player>
+    <name>Shaq Buchanan</name>
+    <rbs>2</rbs>
+    <asts>2</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>2</pts>
+  </player>
+  <player>
+    <name>Reggie Bullock</name>
+    <rbs>241</rbs>
+    <asts>83</asts>
+    <steals>41</steals>
+    <blocks>14</blocks>
+    <pts>583</pts>
+  </player>
+  <player>
+    <name>Trey Burke</name>
+    <rbs>33</rbs>
+    <asts>57</asts>
+    <steals>12</steals>
+    <blocks>0</blocks>
+    <pts>214</pts>
+  </player>
+  <player>
+    <name>Alec Burks</name>
+    <rbs>397</rbs>
+    <asts>239</asts>
+    <steals>85</steals>
+    <blocks>26</blocks>
+    <pts>944</pts>
+  </player>
+  <player>
+    <name>Jared Butler</name>
+    <rbs>45</rbs>
+    <asts>63</asts>
+    <steals>17</steals>
+    <blocks>8</blocks>
+    <pts>161</pts>
+  </player>
+  <player>
+    <name>Jimmy Butler</name>
+    <rbs>336</rbs>
+    <asts>312</asts>
+    <steals>94</steals>
+    <blocks>27</blocks>
+    <pts>1219</pts>
+  </player>
+  <player>
+    <name>Devontae Cacok</name>
+    <rbs>42</rbs>
+    <asts>6</asts>
+    <steals>8</steals>
+    <blocks>7</blocks>
+    <pts>46</pts>
+  </player>
+  <player>
+    <name>Kentavious Caldwell-Pope</name>
+    <rbs>261</rbs>
+    <asts>145</asts>
+    <steals>83</steals>
+    <blocks>26</blocks>
+    <pts>1018</pts>
+  </player>
+  <player>
+    <name>Facundo Campazzo</name>
+    <rbs>117</rbs>
+    <asts>220</asts>
+    <steals>63</steals>
+    <blocks>23</blocks>
+    <pts>332</pts>
+  </player>
+  <player>
+    <name>Vlatko Čančar</name>
+    <rbs>31</rbs>
+    <asts>17</asts>
+    <steals>2</steals>
+    <blocks>3</blocks>
+    <pts>62</pts>
+  </player>
+  <player>
+    <name>Devin Cannady</name>
+    <rbs>6</rbs>
+    <asts>10</asts>
+    <steals>5</steals>
+    <blocks>3</blocks>
+    <pts>50</pts>
+  </player>
+  <player>
+    <name>Clint Capela</name>
+    <rbs>877</rbs>
+    <asts>92</asts>
+    <steals>55</steals>
+    <blocks>93</blocks>
+    <pts>820</pts>
+  </player>
+  <player>
+    <name>Vernon Carey Jr.</name>
+    <rbs>12</rbs>
+    <asts>0</asts>
+    <steals>2</steals>
+    <blocks>1</blocks>
+    <pts>20</pts>
+  </player>
+  <player>
+    <name>Jevon Carter</name>
+    <rbs>110</rbs>
+    <asts>96</asts>
+    <steals>24</steals>
+    <blocks>14</blocks>
+    <pts>277</pts>
+  </player>
+  <player>
+    <name>Wendell Carter Jr.</name>
+    <rbs>648</rbs>
+    <asts>171</asts>
+    <steals>36</steals>
+    <blocks>43</blocks>
+    <pts>931</pts>
+  </player>
+  <player>
+    <name>Alex Caruso</name>
+    <rbs>148</rbs>
+    <asts>165</asts>
+    <steals>71</steals>
+    <blocks>15</blocks>
+    <pts>304</pts>
+  </player>
+  <player>
+    <name>Willie Cauley-Stein</name>
+    <rbs>40</rbs>
+    <asts>10</asts>
+    <steals>6</steals>
+    <blocks>3</blocks>
+    <pts>34</pts>
+  </player>
+  <player>
+    <name>Ahmad Caver</name>
+    <rbs>0</rbs>
+    <asts>0</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>2</pts>
+  </player>
+  <player>
+    <name>Justin Champagnie</name>
+    <rbs>72</rbs>
+    <asts>11</asts>
+    <steals>8</steals>
+    <blocks>4</blocks>
+    <pts>81</pts>
+  </player>
+  <player>
+    <name>Zylan Cheatham</name>
+    <rbs>0</rbs>
+    <asts>0</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>Chris Chiozza</name>
+    <rbs>36</rbs>
+    <asts>65</asts>
+    <steals>13</steals>
+    <blocks>0</blocks>
+    <pts>67</pts>
+  </player>
+  <player>
+    <name>Marquese Chriss</name>
+    <rbs>103</rbs>
+    <asts>17</asts>
+    <steals>13</steals>
+    <blocks>12</blocks>
+    <pts>154</pts>
+  </player>
+  <player>
+    <name>Josh Christopher</name>
+    <rbs>186</rbs>
+    <asts>150</asts>
+    <steals>65</steals>
+    <blocks>13</blocks>
+    <pts>587</pts>
+  </player>
+  <player>
+    <name>Gary Clark</name>
+    <rbs>90</rbs>
+    <asts>18</asts>
+    <steals>13</steals>
+    <blocks>7</blocks>
+    <pts>101</pts>
+  </player>
+  <player>
+    <name>Brandon Clarke</name>
+    <rbs>342</rbs>
+    <asts>86</asts>
+    <steals>39</steals>
+    <blocks>68</blocks>
+    <pts>666</pts>
+  </player>
+  <player>
+    <name>Jordan Clarkson</name>
+    <rbs>273</rbs>
+    <asts>194</asts>
+    <steals>66</steals>
+    <blocks>16</blocks>
+    <pts>1266</pts>
+  </player>
+  <player>
+    <name>Nic Claxton</name>
+    <rbs>264</rbs>
+    <asts>43</asts>
+    <steals>24</steals>
+    <blocks>51</blocks>
+    <pts>410</pts>
+  </player>
+  <player>
+    <name>Amir Coffey</name>
+    <rbs>197</rbs>
+    <asts>124</asts>
+    <steals>38</steals>
+    <blocks>15</blocks>
+    <pts>619</pts>
+  </player>
+  <player>
+    <name>John Collins</name>
+    <rbs>422</rbs>
+    <asts>98</asts>
+    <steals>33</steals>
+    <blocks>56</blocks>
+    <pts>876</pts>
+  </player>
+  <player>
+    <name>Zach Collins</name>
+    <rbs>153</rbs>
+    <asts>61</asts>
+    <steals>13</steals>
+    <blocks>23</blocks>
+    <pts>218</pts>
+  </player>
+  <player>
+    <name>Darren Collison</name>
+    <rbs>4</rbs>
+    <asts>2</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>4</pts>
+  </player>
+  <player>
+    <name>Mike Conley</name>
+    <rbs>217</rbs>
+    <asts>385</asts>
+    <steals>96</steals>
+    <blocks>21</blocks>
+    <pts>986</pts>
+  </player>
+  <player>
+    <name>Pat Connaughton</name>
+    <rbs>273</rbs>
+    <asts>82</asts>
+    <steals>59</steals>
+    <blocks>15</blocks>
+    <pts>645</pts>
+  </player>
+  <player>
+    <name>Tyler Cook</name>
+    <rbs>53</rbs>
+    <asts>3</asts>
+    <steals>4</steals>
+    <blocks>4</blocks>
+    <pts>67</pts>
+  </player>
+  <player>
+    <name>Sharife Cooper</name>
+    <rbs>5</rbs>
+    <asts>5</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>7</pts>
+  </player>
+  <player>
+    <name>Petr Cornelie</name>
+    <rbs>14</rbs>
+    <asts>3</asts>
+    <steals>1</steals>
+    <blocks>1</blocks>
+    <pts>14</pts>
+  </player>
+  <player>
+    <name>DeMarcus Cousins</name>
+    <rbs>270</rbs>
+    <asts>71</asts>
+    <steals>35</steals>
+    <blocks>21</blocks>
+    <pts>430</pts>
+  </player>
+  <player>
+    <name>Robert Covington</name>
+    <rbs>391</rbs>
+    <asts>92</asts>
+    <steals>103</steals>
+    <blocks>91</blocks>
+    <pts>604</pts>
+  </player>
+  <player>
+    <name>Torrey Craig</name>
+    <rbs>310</rbs>
+    <asts>91</asts>
+    <steals>46</steals>
+    <blocks>36</blocks>
+    <pts>516</pts>
+  </player>
+  <player>
+    <name>Jae Crowder</name>
+    <rbs>354</rbs>
+    <asts>124</asts>
+    <steals>95</steals>
+    <blocks>30</blocks>
+    <pts>632</pts>
+  </player>
+  <player>
+    <name>Jarrett Culver</name>
+    <rbs>48</rbs>
+    <asts>33</asts>
+    <steals>20</steals>
+    <blocks>5</blocks>
+    <pts>130</pts>
+  </player>
+  <player>
+    <name>Jarron Cumberland</name>
+    <rbs>3</rbs>
+    <asts>1</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>2</pts>
+  </player>
+  <player>
+    <name>Cade Cunningham</name>
+    <rbs>354</rbs>
+    <asts>356</asts>
+    <steals>78</steals>
+    <blocks>43</blocks>
+    <pts>1114</pts>
+  </player>
+  <player>
+    <name>Seth Curry</name>
+    <rbs>200</rbs>
+    <asts>230</asts>
+    <steals>53</steals>
+    <blocks>14</blocks>
+    <pts>960</pts>
+  </player>
+  <player>
+    <name>Stephen Curry</name>
+    <rbs>335</rbs>
+    <asts>404</asts>
+    <steals>85</steals>
+    <blocks>23</blocks>
+    <pts>1630</pts>
+  </player>
+  <player>
+    <name>Anthony Davis</name>
+    <rbs>394</rbs>
+    <asts>122</asts>
+    <steals>49</steals>
+    <blocks>90</blocks>
+    <pts>927</pts>
+  </player>
+  <player>
+    <name>Ed Davis</name>
+    <rbs>64</rbs>
+    <asts>7</asts>
+    <steals>3</steals>
+    <blocks>9</blocks>
+    <pts>28</pts>
+  </player>
+  <player>
+    <name>Terence Davis</name>
+    <rbs>94</rbs>
+    <asts>40</asts>
+    <steals>25</steals>
+    <blocks>11</blocks>
+    <pts>311</pts>
+  </player>
+  <player>
+    <name>Gabriel Deck</name>
+    <rbs>6</rbs>
+    <asts>5</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>18</pts>
+  </player>
+  <player>
+    <name>Dewayne Dedmon</name>
+    <rbs>386</rbs>
+    <asts>47</asts>
+    <steals>24</steals>
+    <blocks>42</blocks>
+    <pts>422</pts>
+  </player>
+  <player>
+    <name>Sam Dekker</name>
+    <rbs>0</rbs>
+    <asts>0</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>Javin DeLaurier</name>
+    <rbs>1</rbs>
+    <asts>0</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>DeMar DeRozan</name>
+    <rbs>392</rbs>
+    <asts>374</asts>
+    <steals>68</steals>
+    <blocks>24</blocks>
+    <pts>2118</pts>
+  </player>
+  <player>
+    <name>Mamadi Diakite</name>
+    <rbs>59</rbs>
+    <asts>2</asts>
+    <steals>5</steals>
+    <blocks>9</blocks>
+    <pts>56</pts>
+  </player>
+  <player>
+    <name>Cheick Diallo</name>
+    <rbs>12</rbs>
+    <asts>0</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>11</pts>
+  </player>
+  <player>
+    <name>Hamidou Diallo</name>
+    <rbs>277</rbs>
+    <asts>73</asts>
+    <steals>71</steals>
+    <blocks>17</blocks>
+    <pts>636</pts>
+  </player>
+  <player>
+    <name>Gorgui Dieng</name>
+    <rbs>121</rbs>
+    <asts>34</asts>
+    <steals>11</steals>
+    <blocks>13</blocks>
+    <pts>154</pts>
+  </player>
+  <player>
+    <name>Spencer Dinwiddie</name>
+    <rbs>279</rbs>
+    <asts>346</asts>
+    <steals>44</steals>
+    <blocks>13</blocks>
+    <pts>919</pts>
+  </player>
+  <player>
+    <name>Donte DiVincenzo</name>
+    <rbs>170</rbs>
+    <asts>118</asts>
+    <steals>48</steals>
+    <blocks>8</blocks>
+    <pts>380</pts>
+  </player>
+  <player>
+    <name>Luka Donćić</name>
+    <rbs>593</rbs>
+    <asts>568</asts>
+    <steals>75</steals>
+    <blocks>36</blocks>
+    <pts>1847</pts>
+  </player>
+  <player>
+    <name>Luguentz Dort</name>
+    <rbs>212</rbs>
+    <asts>88</asts>
+    <steals>46</steals>
+    <blocks>18</blocks>
+    <pts>877</pts>
+  </player>
+  <player>
+    <name>Ayo Dosunmu</name>
+    <rbs>214</rbs>
+    <asts>256</asts>
+    <steals>60</steals>
+    <blocks>29</blocks>
+    <pts>679</pts>
+  </player>
+  <player>
+    <name>Damyean Dotson</name>
+    <rbs>2</rbs>
+    <asts>1</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>4</pts>
+  </player>
+  <player>
+    <name>Devon Dotson</name>
+    <rbs>9</rbs>
+    <asts>15</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>29</pts>
+  </player>
+  <player>
+    <name>Sekou Doumbouya</name>
+    <rbs>6</rbs>
+    <asts>0</asts>
+    <steals>3</steals>
+    <blocks>2</blocks>
+    <pts>14</pts>
+  </player>
+  <player>
+    <name>Jeff Dowtin</name>
+    <rbs>18</rbs>
+    <asts>10</asts>
+    <steals>5</steals>
+    <blocks>1</blocks>
+    <pts>19</pts>
+  </player>
+  <player>
+    <name>PJ Dozier</name>
+    <rbs>63</rbs>
+    <asts>29</asts>
+    <steals>11</steals>
+    <blocks>6</blocks>
+    <pts>97</pts>
+  </player>
+  <player>
+    <name>Goran Dragić</name>
+    <rbs>65</rbs>
+    <asts>86</asts>
+    <steals>19</steals>
+    <blocks>4</blocks>
+    <pts>157</pts>
+  </player>
+  <player>
+    <name>Andre Drummond</name>
+    <rbs>680</rbs>
+    <asts>131</asts>
+    <steals>78</steals>
+    <blocks>68</blocks>
+    <pts>580</pts>
+  </player>
+  <player>
+    <name>Chris Duarte</name>
+    <rbs>226</rbs>
+    <asts>114</asts>
+    <steals>56</steals>
+    <blocks>10</blocks>
+    <pts>720</pts>
+  </player>
+  <player>
+    <name>David Duke Jr.</name>
+    <rbs>67</rbs>
+    <asts>17</asts>
+    <steals>14</steals>
+    <blocks>7</blocks>
+    <pts>104</pts>
+  </player>
+  <player>
+    <name>Kris Dunn</name>
+    <rbs>49</rbs>
+    <asts>79</asts>
+    <steals>23</steals>
+    <blocks>3</blocks>
+    <pts>106</pts>
+  </player>
+  <player>
+    <name>Kevin Durant</name>
+    <rbs>407</rbs>
+    <asts>351</asts>
+    <steals>48</steals>
+    <blocks>52</blocks>
+    <pts>1643</pts>
+  </player>
+  <player>
+    <name>Jaime Echenique</name>
+    <rbs>0</rbs>
+    <asts>0</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>Anthony Edwards</name>
+    <rbs>343</rbs>
+    <asts>275</asts>
+    <steals>105</steals>
+    <blocks>46</blocks>
+    <pts>1533</pts>
+  </player>
+  <player>
+    <name>Carsen Edwards</name>
+    <rbs>6</rbs>
+    <asts>14</asts>
+    <steals>2</steals>
+    <blocks>0</blocks>
+    <pts>23</pts>
+  </player>
+  <player>
+    <name>Kessler Edwards</name>
+    <rbs>172</rbs>
+    <asts>31</asts>
+    <steals>29</steals>
+    <blocks>24</blocks>
+    <pts>284</pts>
+  </player>
+  <player>
+    <name>Rob Edwards</name>
+    <rbs>3</rbs>
+    <asts>0</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>3</pts>
+  </player>
+  <player>
+    <name>CJ Elleby</name>
+    <rbs>227</rbs>
+    <asts>87</asts>
+    <steals>35</steals>
+    <blocks>19</blocks>
+    <pts>339</pts>
+  </player>
+  <player>
+    <name>Wayne Ellington</name>
+    <rbs>77</rbs>
+    <asts>30</asts>
+    <steals>23</steals>
+    <blocks>5</blocks>
+    <pts>287</pts>
+  </player>
+  <player>
+    <name>Joel Embiid</name>
+    <rbs>796</rbs>
+    <asts>284</asts>
+    <steals>77</steals>
+    <blocks>99</blocks>
+    <pts>2079</pts>
+  </player>
+  <player>
+    <name>James Ennis III</name>
+    <rbs>12</rbs>
+    <asts>3</asts>
+    <steals>2</steals>
+    <blocks>2</blocks>
+    <pts>29</pts>
+  </player>
+  <player>
+    <name>Drew Eubanks</name>
+    <rbs>382</rbs>
+    <asts>85</asts>
+    <steals>31</steals>
+    <blocks>40</blocks>
+    <pts>546</pts>
+  </player>
+  <player>
+    <name>Tacko Fall</name>
+    <rbs>23</rbs>
+    <asts>2</asts>
+    <steals>0</steals>
+    <blocks>6</blocks>
+    <pts>12</pts>
+  </player>
+  <player>
+    <name>Derrick Favors</name>
+    <rbs>184</rbs>
+    <asts>25</asts>
+    <steals>17</steals>
+    <blocks>12</blocks>
+    <pts>206</pts>
+  </player>
+  <player>
+    <name>Bruno Fernando</name>
+    <rbs>55</rbs>
+    <asts>7</asts>
+    <steals>1</steals>
+    <blocks>11</blocks>
+    <pts>88</pts>
+  </player>
+  <player>
+    <name>Dorian Finney-Smith</name>
+    <rbs>375</rbs>
+    <asts>150</asts>
+    <steals>88</steals>
+    <blocks>39</blocks>
+    <pts>880</pts>
+  </player>
+  <player>
+    <name>Malik Fitts</name>
+    <rbs>17</rbs>
+    <asts>5</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>21</pts>
+  </player>
+  <player>
+    <name>Malachi Flynn</name>
+    <rbs>63</rbs>
+    <asts>70</asts>
+    <steals>20</steals>
+    <blocks>4</blocks>
+    <pts>189</pts>
+  </player>
+  <player>
+    <name>Bryn Forbes</name>
+    <rbs>93</rbs>
+    <asts>75</asts>
+    <steals>25</steals>
+    <blocks>5</blocks>
+    <pts>663</pts>
+  </player>
+  <player>
+    <name>Aleem Ford</name>
+    <rbs>15</rbs>
+    <asts>2</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>14</pts>
+  </player>
+  <player>
+    <name>Trent Forrest</name>
+    <rbs>99</rbs>
+    <asts>106</asts>
+    <steals>30</steals>
+    <blocks>6</blocks>
+    <pts>195</pts>
+  </player>
+  <player>
+    <name>Evan Fournier</name>
+    <rbs>210</rbs>
+    <asts>171</asts>
+    <steals>79</steals>
+    <blocks>20</blocks>
+    <pts>1125</pts>
+  </player>
+  <player>
+    <name>De&apos;Aaron Fox</name>
+    <rbs>231</rbs>
+    <asts>330</asts>
+    <steals>68</steals>
+    <blocks>25</blocks>
+    <pts>1367</pts>
+  </player>
+  <player>
+    <name>Melvin Frazier</name>
+    <rbs>13</rbs>
+    <asts>1</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>32</pts>
+  </player>
+  <player>
+    <name>Tim Frazier</name>
+    <rbs>19</rbs>
+    <asts>34</asts>
+    <steals>3</steals>
+    <blocks>1</blocks>
+    <pts>39</pts>
+  </player>
+  <player>
+    <name>Enes Freedom</name>
+    <rbs>160</rbs>
+    <asts>8</asts>
+    <steals>5</steals>
+    <blocks>14</blocks>
+    <pts>128</pts>
+  </player>
+  <player>
+    <name>Markelle Fultz</name>
+    <rbs>49</rbs>
+    <asts>99</asts>
+    <steals>20</steals>
+    <blocks>5</blocks>
+    <pts>195</pts>
+  </player>
+  <player>
+    <name>Wenyen Gabriel</name>
+    <rbs>97</rbs>
+    <asts>14</asts>
+    <steals>5</steals>
+    <blocks>11</blocks>
+    <pts>141</pts>
+  </player>
+  <player>
+    <name>Daniel Gafford</name>
+    <rbs>407</rbs>
+    <asts>68</asts>
+    <steals>30</steals>
+    <blocks>99</blocks>
+    <pts>677</pts>
+  </player>
+  <player>
+    <name>Danilo Gallinari</name>
+    <rbs>308</rbs>
+    <asts>101</asts>
+    <steals>28</steals>
+    <blocks>12</blocks>
+    <pts>771</pts>
+  </player>
+  <player>
+    <name>Langston Galloway</name>
+    <rbs>18</rbs>
+    <asts>12</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>14</pts>
+  </player>
+  <player>
+    <name>Darius Garland</name>
+    <rbs>224</rbs>
+    <asts>583</asts>
+    <steals>89</steals>
+    <blocks>7</blocks>
+    <pts>1473</pts>
+  </player>
+  <player>
+    <name>Marcus Garrett</name>
+    <rbs>23</rbs>
+    <asts>7</asts>
+    <steals>5</steals>
+    <blocks>3</blocks>
+    <pts>13</pts>
+  </player>
+  <player>
+    <name>Usman Garuba</name>
+    <rbs>83</rbs>
+    <asts>17</asts>
+    <steals>10</steals>
+    <blocks>11</blocks>
+    <pts>48</pts>
+  </player>
+  <player>
+    <name>Luka Garza</name>
+    <rbs>100</rbs>
+    <asts>20</asts>
+    <steals>9</steals>
+    <blocks>6</blocks>
+    <pts>186</pts>
+  </player>
+  <player>
+    <name>Rudy Gay</name>
+    <rbs>242</rbs>
+    <asts>56</asts>
+    <steals>25</steals>
+    <blocks>19</blocks>
+    <pts>446</pts>
+  </player>
+  <player>
+    <name>Paul George</name>
+    <rbs>213</rbs>
+    <asts>176</asts>
+    <steals>67</steals>
+    <blocks>13</blocks>
+    <pts>754</pts>
+  </player>
+  <player>
+    <name>Taj Gibson</name>
+    <rbs>229</rbs>
+    <asts>32</asts>
+    <steals>22</steals>
+    <blocks>40</blocks>
+    <pts>229</pts>
+  </player>
+  <player>
+    <name>Josh Giddey</name>
+    <rbs>421</rbs>
+    <asts>345</asts>
+    <steals>51</steals>
+    <blocks>20</blocks>
+    <pts>674</pts>
+  </player>
+  <player>
+    <name>Shai Gilgeous-Alexander</name>
+    <rbs>278</rbs>
+    <asts>331</asts>
+    <steals>71</steals>
+    <blocks>46</blocks>
+    <pts>1371</pts>
+  </player>
+  <player>
+    <name>Anthony Gill</name>
+    <rbs>85</rbs>
+    <asts>27</asts>
+    <steals>5</steals>
+    <blocks>11</blocks>
+    <pts>180</pts>
+  </player>
+  <player>
+    <name>Freddie Gillespie</name>
+    <rbs>36</rbs>
+    <asts>5</asts>
+    <steals>3</steals>
+    <blocks>9</blocks>
+    <pts>21</pts>
+  </player>
+  <player>
+    <name>Rudy Gobert</name>
+    <rbs>968</rbs>
+    <asts>72</asts>
+    <steals>45</steals>
+    <blocks>137</blocks>
+    <pts>1027</pts>
+  </player>
+  <player>
+    <name>Brandon Goodwin</name>
+    <rbs>67</rbs>
+    <asts>91</asts>
+    <steals>25</steals>
+    <blocks>1</blocks>
+    <pts>171</pts>
+  </player>
+  <player>
+    <name>Jordan Goodwin</name>
+    <rbs>1</rbs>
+    <asts>0</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>Aaron Gordon</name>
+    <rbs>439</rbs>
+    <asts>188</asts>
+    <steals>44</steals>
+    <blocks>44</blocks>
+    <pts>1126</pts>
+  </player>
+  <player>
+    <name>Eric Gordon</name>
+    <rbs>113</rbs>
+    <asts>154</asts>
+    <steals>28</steals>
+    <blocks>18</blocks>
+    <pts>765</pts>
+  </player>
+  <player>
+    <name>Devonte&apos; Graham</name>
+    <rbs>177</rbs>
+    <asts>316</asts>
+    <steals>71</steals>
+    <blocks>12</blocks>
+    <pts>902</pts>
+  </player>
+  <player>
+    <name>Jerami Grant</name>
+    <rbs>191</rbs>
+    <asts>111</asts>
+    <steals>44</steals>
+    <blocks>49</blocks>
+    <pts>904</pts>
+  </player>
+  <player>
+    <name>Hassani Gravett</name>
+    <rbs>21</rbs>
+    <asts>20</asts>
+    <steals>5</steals>
+    <blocks>1</blocks>
+    <pts>50</pts>
+  </player>
+  <player>
+    <name>Danny Green</name>
+    <rbs>157</rbs>
+    <asts>64</asts>
+    <steals>60</steals>
+    <blocks>37</blocks>
+    <pts>366</pts>
+  </player>
+  <player>
+    <name>Draymond Green</name>
+    <rbs>336</rbs>
+    <asts>320</asts>
+    <steals>61</steals>
+    <blocks>50</blocks>
+    <pts>346</pts>
+  </player>
+  <player>
+    <name>Jalen Green</name>
+    <rbs>226</rbs>
+    <asts>176</asts>
+    <steals>44</steals>
+    <blocks>18</blocks>
+    <pts>1157</pts>
+  </player>
+  <player>
+    <name>JaMychal Green</name>
+    <rbs>281</rbs>
+    <asts>59</asts>
+    <steals>43</steals>
+    <blocks>26</blocks>
+    <pts>432</pts>
+  </player>
+  <player>
+    <name>Javonte Green</name>
+    <rbs>276</rbs>
+    <asts>60</asts>
+    <steals>67</steals>
+    <blocks>32</blocks>
+    <pts>468</pts>
+  </player>
+  <player>
+    <name>Jeff Green</name>
+    <rbs>231</rbs>
+    <asts>96</asts>
+    <steals>28</steals>
+    <blocks>27</blocks>
+    <pts>772</pts>
+  </player>
+  <player>
+    <name>Josh Green</name>
+    <rbs>161</rbs>
+    <asts>79</asts>
+    <steals>45</steals>
+    <blocks>14</blocks>
+    <pts>319</pts>
+  </player>
+  <player>
+    <name>Blake Griffin</name>
+    <rbs>228</rbs>
+    <asts>105</asts>
+    <steals>27</steals>
+    <blocks>14</blocks>
+    <pts>359</pts>
+  </player>
+  <player>
+    <name>Quentin Grimes</name>
+    <rbs>94</rbs>
+    <asts>44</asts>
+    <steals>31</steals>
+    <blocks>11</blocks>
+    <pts>275</pts>
+  </player>
+  <player>
+    <name>Kyle Guy</name>
+    <rbs>17</rbs>
+    <asts>17</asts>
+    <steals>7</steals>
+    <blocks>1</blocks>
+    <pts>74</pts>
+  </player>
+  <player>
+    <name>Rui Hachimura</name>
+    <rbs>160</rbs>
+    <asts>48</asts>
+    <steals>23</steals>
+    <blocks>9</blocks>
+    <pts>475</pts>
+  </player>
+  <player>
+    <name>Tyrese Haliburton</name>
+    <rbs>311</rbs>
+    <asts>628</asts>
+    <steals>134</steals>
+    <blocks>49</blocks>
+    <pts>1181</pts>
+  </player>
+  <player>
+    <name>Tyler Hall</name>
+    <rbs>0</rbs>
+    <asts>0</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>R.J. Hampton</name>
+    <rbs>194</rbs>
+    <asts>158</asts>
+    <steals>42</steals>
+    <blocks>13</blocks>
+    <pts>489</pts>
+  </player>
+  <player>
+    <name>Tim Hardaway Jr.</name>
+    <rbs>156</rbs>
+    <asts>92</asts>
+    <steals>38</steals>
+    <blocks>6</blocks>
+    <pts>598</pts>
+  </player>
+  <player>
+    <name>James Harden</name>
+    <rbs>500</rbs>
+    <asts>667</asts>
+    <steals>82</steals>
+    <blocks>36</blocks>
+    <pts>1432</pts>
+  </player>
+  <player>
+    <name>Maurice Harkless</name>
+    <rbs>112</rbs>
+    <asts>23</asts>
+    <steals>29</steals>
+    <blocks>24</blocks>
+    <pts>217</pts>
+  </player>
+  <player>
+    <name>Jared Harper</name>
+    <rbs>2</rbs>
+    <asts>14</asts>
+    <steals>4</steals>
+    <blocks>1</blocks>
+    <pts>37</pts>
+  </player>
+  <player>
+    <name>Montrezl Harrell</name>
+    <rbs>431</rbs>
+    <asts>145</asts>
+    <steals>29</steals>
+    <blocks>43</blocks>
+    <pts>932</pts>
+  </player>
+  <player>
+    <name>Gary Harris</name>
+    <rbs>122</rbs>
+    <asts>108</asts>
+    <steals>59</steals>
+    <blocks>9</blocks>
+    <pts>679</pts>
+  </player>
+  <player>
+    <name>Joe Harris</name>
+    <rbs>56</rbs>
+    <asts>14</asts>
+    <steals>7</steals>
+    <blocks>2</blocks>
+    <pts>158</pts>
+  </player>
+  <player>
+    <name>Tobias Harris</name>
+    <rbs>496</rbs>
+    <asts>252</asts>
+    <steals>47</steals>
+    <blocks>43</blocks>
+    <pts>1257</pts>
+  </player>
+  <player>
+    <name>Shaquille Harrison</name>
+    <rbs>4</rbs>
+    <asts>3</asts>
+    <steals>1</steals>
+    <blocks>1</blocks>
+    <pts>4</pts>
+  </player>
+  <player>
+    <name>Josh Hart</name>
+    <rbs>388</rbs>
+    <asts>224</asts>
+    <steals>61</steals>
+    <blocks>13</blocks>
+    <pts>807</pts>
+  </player>
+  <player>
+    <name>Isaiah Hartenstein</name>
+    <rbs>332</rbs>
+    <asts>160</asts>
+    <steals>50</steals>
+    <blocks>77</blocks>
+    <pts>563</pts>
+  </player>
+  <player>
+    <name>Udonis Haslem</name>
+    <rbs>25</rbs>
+    <asts>4</asts>
+    <steals>1</steals>
+    <blocks>1</blocks>
+    <pts>32</pts>
+  </player>
+  <player>
+    <name>Sam Hauser</name>
+    <rbs>29</rbs>
+    <asts>10</asts>
+    <steals>1</steals>
+    <blocks>2</blocks>
+    <pts>65</pts>
+  </player>
+  <player>
+    <name>Jaxson Hayes</name>
+    <rbs>315</rbs>
+    <asts>43</asts>
+    <steals>33</steals>
+    <blocks>55</blocks>
+    <pts>654</pts>
+  </player>
+  <player>
+    <name>Killian Hayes</name>
+    <rbs>210</rbs>
+    <asts>277</asts>
+    <steals>78</steals>
+    <blocks>35</blocks>
+    <pts>453</pts>
+  </player>
+  <player>
+    <name>Gordon Hayward</name>
+    <rbs>224</rbs>
+    <asts>177</asts>
+    <steals>47</steals>
+    <blocks>22</blocks>
+    <pts>778</pts>
+  </player>
+  <player>
+    <name>Aaron Henry</name>
+    <rbs>1</rbs>
+    <asts>0</asts>
+    <steals>0</steals>
+    <blocks>2</blocks>
+    <pts>2</pts>
+  </player>
+  <player>
+    <name>Juancho Hernang�mez</name>
+    <rbs>100</rbs>
+    <asts>20</asts>
+    <steals>14</steals>
+    <blocks>10</blocks>
+    <pts>131</pts>
+  </player>
+  <player>
+    <name>Willy Hernang�mez</name>
+    <rbs>338</rbs>
+    <asts>63</asts>
+    <steals>21</steals>
+    <blocks>19</blocks>
+    <pts>453</pts>
+  </player>
+  <player>
+    <name>Tyler Herro</name>
+    <rbs>329</rbs>
+    <asts>263</asts>
+    <steals>44</steals>
+    <blocks>8</blocks>
+    <pts>1367</pts>
+  </player>
+  <player>
+    <name>Buddy Hield</name>
+    <rbs>353</rbs>
+    <asts>229</asts>
+    <steals>73</steals>
+    <blocks>25</blocks>
+    <pts>1265</pts>
+  </player>
+  <player>
+    <name>Haywood Highsmith</name>
+    <rbs>26</rbs>
+    <asts>6</asts>
+    <steals>2</steals>
+    <blocks>3</blocks>
+    <pts>43</pts>
+  </player>
+  <player>
+    <name>George Hill</name>
+    <rbs>155</rbs>
+    <asts>120</asts>
+    <steals>42</steals>
+    <blocks>6</blocks>
+    <pts>334</pts>
+  </player>
+  <player>
+    <name>Malcolm Hill</name>
+    <rbs>35</rbs>
+    <asts>8</asts>
+    <steals>7</steals>
+    <blocks>3</blocks>
+    <pts>72</pts>
+  </player>
+  <player>
+    <name>Solomon Hill</name>
+    <rbs>23</rbs>
+    <asts>12</asts>
+    <steals>4</steals>
+    <blocks>2</blocks>
+    <pts>8</pts>
+  </player>
+  <player>
+    <name>Nate Hinton</name>
+    <rbs>0</rbs>
+    <asts>0</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>Jaylen Hoard</name>
+    <rbs>84</rbs>
+    <asts>17</asts>
+    <steals>6</steals>
+    <blocks>5</blocks>
+    <pts>103</pts>
+  </player>
+  <player>
+    <name>Aaron Holiday</name>
+    <rbs>122</rbs>
+    <asts>153</asts>
+    <steals>42</steals>
+    <blocks>9</blocks>
+    <pts>400</pts>
+  </player>
+  <player>
+    <name>Jrue Holiday</name>
+    <rbs>301</rbs>
+    <asts>457</asts>
+    <steals>108</steals>
+    <blocks>29</blocks>
+    <pts>1225</pts>
+  </player>
+  <player>
+    <name>Justin Holiday</name>
+    <rbs>190</rbs>
+    <asts>128</asts>
+    <steals>57</steals>
+    <blocks>33</blocks>
+    <pts>749</pts>
+  </player>
+  <player>
+    <name>Richaun Holmes</name>
+    <rbs>317</rbs>
+    <asts>48</asts>
+    <steals>17</steals>
+    <blocks>41</blocks>
+    <pts>468</pts>
+  </player>
+  <player>
+    <name>Rodney Hood</name>
+    <rbs>77</rbs>
+    <asts>38</asts>
+    <steals>15</steals>
+    <blocks>6</blocks>
+    <pts>163</pts>
+  </player>
+  <player>
+    <name>Scotty Hopson</name>
+    <rbs>1</rbs>
+    <asts>1</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>4</pts>
+  </player>
+  <player>
+    <name>Al Horford</name>
+    <rbs>530</rbs>
+    <asts>232</asts>
+    <steals>49</steals>
+    <blocks>92</blocks>
+    <pts>701</pts>
+  </player>
+  <player>
+    <name>Talen Horton-Tucker</name>
+    <rbs>193</rbs>
+    <asts>159</asts>
+    <steals>59</steals>
+    <blocks>29</blocks>
+    <pts>597</pts>
+  </player>
+  <player>
+    <name>Danuel House Jr.</name>
+    <rbs>111</rbs>
+    <asts>44</asts>
+    <steals>21</steals>
+    <blocks>17</blocks>
+    <pts>248</pts>
+  </player>
+  <player>
+    <name>Dwight Howard</name>
+    <rbs>356</rbs>
+    <asts>35</asts>
+    <steals>34</steals>
+    <blocks>36</blocks>
+    <pts>372</pts>
+  </player>
+  <player>
+    <name>Markus Howard</name>
+    <rbs>12</rbs>
+    <asts>7</asts>
+    <steals>9</steals>
+    <blocks>0</blocks>
+    <pts>126</pts>
+  </player>
+  <player>
+    <name>Kevin Huerter</name>
+    <rbs>254</rbs>
+    <asts>203</asts>
+    <steals>55</steals>
+    <blocks>26</blocks>
+    <pts>892</pts>
+  </player>
+  <player>
+    <name>Jay Huff</name>
+    <rbs>4</rbs>
+    <asts>1</asts>
+    <steals>1</steals>
+    <blocks>1</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>Elijah Hughes</name>
+    <rbs>58</rbs>
+    <asts>22</asts>
+    <steals>14</steals>
+    <blocks>8</blocks>
+    <pts>126</pts>
+  </player>
+  <player>
+    <name>Feron Hunt</name>
+    <rbs>1</rbs>
+    <asts>1</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>De&apos;Andre Hunter</name>
+    <rbs>176</rbs>
+    <asts>68</asts>
+    <steals>36</steals>
+    <blocks>21</blocks>
+    <pts>709</pts>
+  </player>
+  <player>
+    <name>Chandler Hutchison</name>
+    <rbs>5</rbs>
+    <asts>2</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>4</pts>
+  </player>
+  <player>
+    <name>Bones Hyland</name>
+    <rbs>188</rbs>
+    <asts>191</asts>
+    <steals>41</steals>
+    <blocks>20</blocks>
+    <pts>698</pts>
+  </player>
+  <player>
+    <name>Serge Ibaka</name>
+    <rbs>250</rbs>
+    <asts>49</asts>
+    <steals>11</steals>
+    <blocks>33</blocks>
+    <pts>365</pts>
+  </player>
+  <player>
+    <name>Andre Iguodala</name>
+    <rbs>100</rbs>
+    <asts>114</asts>
+    <steals>27</steals>
+    <blocks>22</blocks>
+    <pts>124</pts>
+  </player>
+  <player>
+    <name>Joe Ingles</name>
+    <rbs>131</rbs>
+    <asts>158</asts>
+    <steals>23</steals>
+    <blocks>5</blocks>
+    <pts>325</pts>
+  </player>
+  <player>
+    <name>Brandon Ingram</name>
+    <rbs>320</rbs>
+    <asts>307</asts>
+    <steals>34</steals>
+    <blocks>26</blocks>
+    <pts>1246</pts>
+  </player>
+  <player>
+    <name>Kyrie Irving</name>
+    <rbs>127</rbs>
+    <asts>167</asts>
+    <steals>41</steals>
+    <blocks>17</blocks>
+    <pts>796</pts>
+  </player>
+  <player>
+    <name>Wes Iwundu</name>
+    <rbs>13</rbs>
+    <asts>0</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>22</pts>
+  </player>
+  <player>
+    <name>Frank Jackson</name>
+    <rbs>87</rbs>
+    <asts>55</asts>
+    <steals>27</steals>
+    <blocks>9</blocks>
+    <pts>560</pts>
+  </player>
+  <player>
+    <name>Isaiah Jackson</name>
+    <rbs>149</rbs>
+    <asts>10</asts>
+    <steals>25</steals>
+    <blocks>52</blocks>
+    <pts>297</pts>
+  </player>
+  <player>
+    <name>Jaren Jackson Jr.</name>
+    <rbs>454</rbs>
+    <asts>86</asts>
+    <steals>73</steals>
+    <blocks>177</blocks>
+    <pts>1272</pts>
+  </player>
+  <player>
+    <name>Josh Jackson</name>
+    <rbs>141</rbs>
+    <asts>54</asts>
+    <steals>26</steals>
+    <blocks>22</blocks>
+    <pts>328</pts>
+  </player>
+  <player>
+    <name>Justin Jackson</name>
+    <rbs>7</rbs>
+    <asts>2</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>15</pts>
+  </player>
+  <player>
+    <name>Reggie Jackson</name>
+    <rbs>271</rbs>
+    <asts>359</asts>
+    <steals>55</steals>
+    <blocks>15</blocks>
+    <pts>1263</pts>
+  </player>
+  <player>
+    <name>LeBron James</name>
+    <rbs>459</rbs>
+    <asts>349</asts>
+    <steals>73</steals>
+    <blocks>59</blocks>
+    <pts>1695</pts>
+  </player>
+  <player>
+    <name>DeJon Jarreau</name>
+    <rbs>0</rbs>
+    <asts>0</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>DaQuan Jeffries</name>
+    <rbs>2</rbs>
+    <asts>1</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>2</pts>
+  </player>
+  <player>
+    <name>Ty Jerome</name>
+    <rbs>78</rbs>
+    <asts>109</asts>
+    <steals>30</steals>
+    <blocks>5</blocks>
+    <pts>340</pts>
+  </player>
+  <player>
+    <name>Isaiah Joe</name>
+    <rbs>56</rbs>
+    <asts>35</asts>
+    <steals>14</steals>
+    <blocks>3</blocks>
+    <pts>198</pts>
+  </player>
+  <player>
+    <name>Alize Johnson</name>
+    <rbs>61</rbs>
+    <asts>9</asts>
+    <steals>5</steals>
+    <blocks>0</blocks>
+    <pts>41</pts>
+  </player>
+  <player>
+    <name>B.J. Johnson</name>
+    <rbs>15</rbs>
+    <asts>0</asts>
+    <steals>0</steals>
+    <blocks>1</blocks>
+    <pts>26</pts>
+  </player>
+  <player>
+    <name>Cameron Johnson</name>
+    <rbs>273</rbs>
+    <asts>99</asts>
+    <steals>57</steals>
+    <blocks>16</blocks>
+    <pts>822</pts>
+  </player>
+  <player>
+    <name>David Johnson</name>
+    <rbs>0</rbs>
+    <asts>0</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>Jalen Johnson</name>
+    <rbs>26</rbs>
+    <asts>3</asts>
+    <steals>3</steals>
+    <blocks>2</blocks>
+    <pts>52</pts>
+  </player>
+  <player>
+    <name>James Johnson</name>
+    <rbs>215</rbs>
+    <asts>130</asts>
+    <steals>30</steals>
+    <blocks>34</blocks>
+    <pts>340</pts>
+  </player>
+  <player>
+    <name>Joe Johnson</name>
+    <rbs>0</rbs>
+    <asts>0</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>2</pts>
+  </player>
+  <player>
+    <name>Keldon Johnson</name>
+    <rbs>457</rbs>
+    <asts>158</asts>
+    <steals>58</steals>
+    <blocks>14</blocks>
+    <pts>1278</pts>
+  </player>
+  <player>
+    <name>Keon Johnson</name>
+    <rbs>81</rbs>
+    <asts>76</asts>
+    <steals>28</steals>
+    <blocks>12</blocks>
+    <pts>267</pts>
+  </player>
+  <player>
+    <name>Stanley Johnson</name>
+    <rbs>155</rbs>
+    <asts>80</asts>
+    <steals>43</steals>
+    <blocks>14</blocks>
+    <pts>320</pts>
+  </player>
+  <player>
+    <name>Tyler Johnson</name>
+    <rbs>12</rbs>
+    <asts>7</asts>
+    <steals>3</steals>
+    <blocks>3</blocks>
+    <pts>17</pts>
+  </player>
+  <player>
+    <name>Nikola Jokić</name>
+    <rbs>1019</rbs>
+    <asts>584</asts>
+    <steals>109</steals>
+    <blocks>63</blocks>
+    <pts>2004</pts>
+  </player>
+  <player>
+    <name>Carlik Jones</name>
+    <rbs>3</rbs>
+    <asts>5</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>4</pts>
+  </player>
+  <player>
+    <name>Damian Jones</name>
+    <rbs>246</rbs>
+    <asts>69</asts>
+    <steals>26</steals>
+    <blocks>47</blocks>
+    <pts>454</pts>
+  </player>
+  <player>
+    <name>Derrick Jones Jr.</name>
+    <rbs>169</rbs>
+    <asts>30</asts>
+    <steals>25</steals>
+    <blocks>33</blocks>
+    <pts>286</pts>
+  </player>
+  <player>
+    <name>Herbert Jones</name>
+    <rbs>296</rbs>
+    <asts>167</asts>
+    <steals>130</steals>
+    <blocks>60</blocks>
+    <pts>742</pts>
+  </player>
+  <player>
+    <name>Jemerrio Jones</name>
+    <rbs>3</rbs>
+    <asts>0</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>4</pts>
+  </player>
+  <player>
+    <name>Kai Jones</name>
+    <rbs>11</rbs>
+    <asts>4</asts>
+    <steals>1</steals>
+    <blocks>2</blocks>
+    <pts>22</pts>
+  </player>
+  <player>
+    <name>Mason Jones</name>
+    <rbs>10</rbs>
+    <asts>4</asts>
+    <steals>2</steals>
+    <blocks>0</blocks>
+    <pts>27</pts>
+  </player>
+  <player>
+    <name>Tre Jones</name>
+    <rbs>155</rbs>
+    <asts>233</asts>
+    <steals>42</steals>
+    <blocks>7</blocks>
+    <pts>413</pts>
+  </player>
+  <player>
+    <name>Tyus Jones</name>
+    <rbs>176</rbs>
+    <asts>324</asts>
+    <steals>66</steals>
+    <blocks>2</blocks>
+    <pts>632</pts>
+  </player>
+  <player>
+    <name>DeAndre Jordan</name>
+    <rbs>264</rbs>
+    <asts>21</asts>
+    <steals>12</steals>
+    <blocks>35</blocks>
+    <pts>206</pts>
+  </player>
+  <player>
+    <name>Cory Joseph</name>
+    <rbs>174</rbs>
+    <asts>237</asts>
+    <steals>42</steals>
+    <blocks>17</blocks>
+    <pts>521</pts>
+  </player>
+  <player>
+    <name>Georgios Kalaitzakis</name>
+    <rbs>21</rbs>
+    <asts>12</asts>
+    <steals>11</steals>
+    <blocks>2</blocks>
+    <pts>86</pts>
+  </player>
+  <player>
+    <name>Frank Kaminsky</name>
+    <rbs>41</rbs>
+    <asts>13</asts>
+    <steals>8</steals>
+    <blocks>7</blocks>
+    <pts>95</pts>
+  </player>
+  <player>
+    <name>Luke Kennard</name>
+    <rbs>229</rbs>
+    <asts>146</asts>
+    <steals>42</steals>
+    <blocks>6</blocks>
+    <pts>833</pts>
+  </player>
+  <player>
+    <name>Braxton Key</name>
+    <rbs>50</rbs>
+    <asts>11</asts>
+    <steals>10</steals>
+    <blocks>11</blocks>
+    <pts>79</pts>
+  </player>
+  <player>
+    <name>George King</name>
+    <rbs>5</rbs>
+    <asts>0</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>1</pts>
+  </player>
+  <player>
+    <name>Louis King</name>
+    <rbs>12</rbs>
+    <asts>9</asts>
+    <steals>2</steals>
+    <blocks>1</blocks>
+    <pts>45</pts>
+  </player>
+  <player>
+    <name>Corey Kispert</name>
+    <rbs>209</rbs>
+    <asts>85</asts>
+    <steals>35</steals>
+    <blocks>22</blocks>
+    <pts>634</pts>
+  </player>
+  <player>
+    <name>Maxi Kleber</name>
+    <rbs>350</rbs>
+    <asts>68</asts>
+    <steals>30</steals>
+    <blocks>58</blocks>
+    <pts>411</pts>
+  </player>
+  <player>
+    <name>Brandon Knight</name>
+    <rbs>8</rbs>
+    <asts>8</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>32</pts>
+  </player>
+  <player>
+    <name>Nathan Knight</name>
+    <rbs>85</rbs>
+    <asts>22</asts>
+    <steals>7</steals>
+    <blocks>8</blocks>
+    <pts>138</pts>
+  </player>
+  <player>
+    <name>Kevin Knox</name>
+    <rbs>44</rbs>
+    <asts>10</asts>
+    <steals>4</steals>
+    <blocks>2</blocks>
+    <pts>93</pts>
+  </player>
+  <player>
+    <name>John Konchar</name>
+    <rbs>329</rbs>
+    <asts>109</asts>
+    <steals>45</steals>
+    <blocks>22</blocks>
+    <pts>349</pts>
+  </player>
+  <player>
+    <name>Furkan Korkmaz</name>
+    <rbs>175</rbs>
+    <asts>127</asts>
+    <steals>33</steals>
+    <blocks>9</blocks>
+    <pts>509</pts>
+  </player>
+  <player>
+    <name>Luke Kornet</name>
+    <rbs>29</rbs>
+    <asts>9</asts>
+    <steals>3</steals>
+    <blocks>3</blocks>
+    <pts>30</pts>
+  </player>
+  <player>
+    <name>Vit Krejci</name>
+    <rbs>101</rbs>
+    <asts>57</asts>
+    <steals>19</steals>
+    <blocks>8</blocks>
+    <pts>187</pts>
+  </player>
+  <player>
+    <name>Arnoldas Kulboka</name>
+    <rbs>0</rbs>
+    <asts>0</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>Jonathan Kuminga</name>
+    <rbs>234</rbs>
+    <asts>64</asts>
+    <steals>31</steals>
+    <blocks>22</blocks>
+    <pts>652</pts>
+  </player>
+  <player>
+    <name>Kyle Kuzma</name>
+    <rbs>561</rbs>
+    <asts>233</asts>
+    <steals>42</steals>
+    <blocks>57</blocks>
+    <pts>1130</pts>
+  </player>
+  <player>
+    <name>Anthony Lamb</name>
+    <rbs>1</rbs>
+    <asts>2</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>Jeremy Lamb</name>
+    <rbs>154</rbs>
+    <asts>81</asts>
+    <steals>31</steals>
+    <blocks>22</blocks>
+    <pts>410</pts>
+  </player>
+  <player>
+    <name>Jock Landale</name>
+    <rbs>138</rbs>
+    <asts>45</asts>
+    <steals>10</steals>
+    <blocks>14</blocks>
+    <pts>265</pts>
+  </player>
+  <player>
+    <name>Romeo Langford</name>
+    <rbs>108</rbs>
+    <asts>21</asts>
+    <steals>22</steals>
+    <blocks>16</blocks>
+    <pts>218</pts>
+  </player>
+  <player>
+    <name>Zach LaVine</name>
+    <rbs>308</rbs>
+    <asts>303</asts>
+    <steals>41</steals>
+    <blocks>23</blocks>
+    <pts>1635</pts>
+  </player>
+  <player>
+    <name>Jake Layman</name>
+    <rbs>36</rbs>
+    <asts>9</asts>
+    <steals>7</steals>
+    <blocks>5</blocks>
+    <pts>81</pts>
+  </player>
+  <player>
+    <name>Damion Lee</name>
+    <rbs>203</rbs>
+    <asts>63</asts>
+    <steals>39</steals>
+    <blocks>6</blocks>
+    <pts>467</pts>
+  </player>
+  <player>
+    <name>Saben Lee</name>
+    <rbs>87</rbs>
+    <asts>107</asts>
+    <steals>36</steals>
+    <blocks>12</blocks>
+    <pts>208</pts>
+  </player>
+  <player>
+    <name>Alex Len</name>
+    <rbs>161</rbs>
+    <asts>45</asts>
+    <steals>13</steals>
+    <blocks>25</blocks>
+    <pts>235</pts>
+  </player>
+  <player>
+    <name>Caris LeVert</name>
+    <rbs>214</rbs>
+    <asts>248</asts>
+    <steals>51</steals>
+    <blocks>23</blocks>
+    <pts>986</pts>
+  </player>
+  <player>
+    <name>Kira Lewis Jr.</name>
+    <rbs>39</rbs>
+    <asts>49</asts>
+    <steals>11</steals>
+    <blocks>1</blocks>
+    <pts>141</pts>
+  </player>
+  <player>
+    <name>Scottie Lewis</name>
+    <rbs>0</rbs>
+    <asts>1</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>1</pts>
+  </player>
+  <player>
+    <name>Damian Lillard</name>
+    <rbs>120</rbs>
+    <asts>212</asts>
+    <steals>17</steals>
+    <blocks>11</blocks>
+    <pts>695</pts>
+  </player>
+  <player>
+    <name>Nassir Little</name>
+    <rbs>236</rbs>
+    <asts>54</asts>
+    <steals>25</steals>
+    <blocks>36</blocks>
+    <pts>410</pts>
+  </player>
+  <player>
+    <name>Isaiah Livers</name>
+    <rbs>57</rbs>
+    <asts>21</asts>
+    <steals>13</steals>
+    <blocks>7</blocks>
+    <pts>121</pts>
+  </player>
+  <player>
+    <name>Kevon Looney</name>
+    <rbs>596</rbs>
+    <asts>165</asts>
+    <steals>50</steals>
+    <blocks>52</blocks>
+    <pts>491</pts>
+  </player>
+  <player>
+    <name>Brook Lopez</name>
+    <rbs>53</rbs>
+    <asts>6</asts>
+    <steals>8</steals>
+    <blocks>15</blocks>
+    <pts>161</pts>
+  </player>
+  <player>
+    <name>Robin Lopez</name>
+    <rbs>126</rbs>
+    <asts>54</asts>
+    <steals>2</steals>
+    <blocks>18</blocks>
+    <pts>254</pts>
+  </player>
+  <player>
+    <name>Didi Louzada</name>
+    <rbs>17</rbs>
+    <asts>5</asts>
+    <steals>2</steals>
+    <blocks>2</blocks>
+    <pts>35</pts>
+  </player>
+  <player>
+    <name>Kevin Love</name>
+    <rbs>536</rbs>
+    <asts>160</asts>
+    <steals>26</steals>
+    <blocks>18</blocks>
+    <pts>1007</pts>
+  </player>
+  <player>
+    <name>Kyle Lowry</name>
+    <rbs>282</rbs>
+    <asts>474</asts>
+    <steals>67</steals>
+    <blocks>17</blocks>
+    <pts>844</pts>
+  </player>
+  <player>
+    <name>Gabriel Lundberg</name>
+    <rbs>7</rbs>
+    <asts>11</asts>
+    <steals>3</steals>
+    <blocks>0</blocks>
+    <pts>13</pts>
+  </player>
+  <player>
+    <name>Timoth� Luwawu-Cabarrot</name>
+    <rbs>82</rbs>
+    <asts>40</asts>
+    <steals>18</steals>
+    <blocks>6</blocks>
+    <pts>227</pts>
+  </player>
+  <player>
+    <name>Trey Lyles</name>
+    <rbs>379</rbs>
+    <asts>88</asts>
+    <steals>29</steals>
+    <blocks>32</blocks>
+    <pts>786</pts>
+  </player>
+  <player>
+    <name>Th�o Maledon</name>
+    <rbs>131</rbs>
+    <asts>111</asts>
+    <steals>31</steals>
+    <blocks>11</blocks>
+    <pts>361</pts>
+  </player>
+  <player>
+    <name>Sandro Mamukelashvili</name>
+    <rbs>82</rbs>
+    <asts>22</asts>
+    <steals>9</steals>
+    <blocks>9</blocks>
+    <pts>154</pts>
+  </player>
+  <player>
+    <name>Terance Mann</name>
+    <rbs>425</rbs>
+    <asts>209</asts>
+    <steals>55</steals>
+    <blocks>21</blocks>
+    <pts>872</pts>
+  </player>
+  <player>
+    <name>Tre Mann</name>
+    <rbs>171</rbs>
+    <asts>91</asts>
+    <steals>47</steals>
+    <blocks>12</blocks>
+    <pts>625</pts>
+  </player>
+  <player>
+    <name>Boban Marjanović</name>
+    <rbs>39</rbs>
+    <asts>3</asts>
+    <steals>0</steals>
+    <blocks>3</blocks>
+    <pts>98</pts>
+  </player>
+  <player>
+    <name>Lauri Markkanen</name>
+    <rbs>345</rbs>
+    <asts>81</asts>
+    <steals>45</steals>
+    <blocks>30</blocks>
+    <pts>900</pts>
+  </player>
+  <player>
+    <name>Naji Marshall</name>
+    <rbs>142</rbs>
+    <asts>62</asts>
+    <steals>33</steals>
+    <blocks>8</blocks>
+    <pts>313</pts>
+  </player>
+  <player>
+    <name>Caleb Martin</name>
+    <rbs>230</rbs>
+    <asts>64</asts>
+    <steals>58</steals>
+    <blocks>30</blocks>
+    <pts>551</pts>
+  </player>
+  <player>
+    <name>Cody Martin</name>
+    <rbs>285</rbs>
+    <asts>179</asts>
+    <steals>88</steals>
+    <blocks>32</blocks>
+    <pts>544</pts>
+  </player>
+  <player>
+    <name>Kelan Martin</name>
+    <rbs>55</rbs>
+    <asts>21</asts>
+    <steals>13</steals>
+    <blocks>9</blocks>
+    <pts>171</pts>
+  </player>
+  <player>
+    <name>Kenyon Martin Jr.</name>
+    <rbs>297</rbs>
+    <asts>101</asts>
+    <steals>34</steals>
+    <blocks>40</blocks>
+    <pts>696</pts>
+  </player>
+  <player>
+    <name>Garrison Mathews</name>
+    <rbs>190</rbs>
+    <asts>64</asts>
+    <steals>57</steals>
+    <blocks>24</blocks>
+    <pts>650</pts>
+  </player>
+  <player>
+    <name>Dakota Mathias</name>
+    <rbs>2</rbs>
+    <asts>1</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>6</pts>
+  </player>
+  <player>
+    <name>Wesley Matthews</name>
+    <rbs>92</rbs>
+    <asts>36</asts>
+    <steals>23</steals>
+    <blocks>8</blocks>
+    <pts>249</pts>
+  </player>
+  <player>
+    <name>Tyrese Maxey</name>
+    <rbs>240</rbs>
+    <asts>321</asts>
+    <steals>55</steals>
+    <blocks>32</blocks>
+    <pts>1311</pts>
+  </player>
+  <player>
+    <name>Skylar Mays</name>
+    <rbs>25</rbs>
+    <asts>17</asts>
+    <steals>7</steals>
+    <blocks>0</blocks>
+    <pts>80</pts>
+  </player>
+  <player>
+    <name>Miles McBride</name>
+    <rbs>42</rbs>
+    <asts>41</asts>
+    <steals>14</steals>
+    <blocks>1</blocks>
+    <pts>89</pts>
+  </player>
+  <player>
+    <name>Mac McClung</name>
+    <rbs>3</rbs>
+    <asts>1</asts>
+    <steals>1</steals>
+    <blocks>1</blocks>
+    <pts>8</pts>
+  </player>
+  <player>
+    <name>CJ McCollum</name>
+    <rbs>269</rbs>
+    <asts>315</asts>
+    <steals>70</steals>
+    <blocks>22</blocks>
+    <pts>1370</pts>
+  </player>
+  <player>
+    <name>T.J. McConnell</name>
+    <rbs>90</rbs>
+    <asts>131</asts>
+    <steals>29</steals>
+    <blocks>10</blocks>
+    <pts>229</pts>
+  </player>
+  <player>
+    <name>Jaden McDaniels</name>
+    <rbs>293</rbs>
+    <asts>79</asts>
+    <steals>52</steals>
+    <blocks>54</blocks>
+    <pts>647</pts>
+  </player>
+  <player>
+    <name>Jalen McDaniels</name>
+    <rbs>170</rbs>
+    <asts>58</asts>
+    <steals>26</steals>
+    <blocks>22</blocks>
+    <pts>340</pts>
+  </player>
+  <player>
+    <name>Doug McDermott</name>
+    <rbs>115</rbs>
+    <asts>64</asts>
+    <steals>13</steals>
+    <blocks>6</blocks>
+    <pts>578</pts>
+  </player>
+  <player>
+    <name>JaVale McGee</name>
+    <rbs>496</rbs>
+    <asts>42</asts>
+    <steals>22</steals>
+    <blocks>81</blocks>
+    <pts>680</pts>
+  </player>
+  <player>
+    <name>Cameron McGriff</name>
+    <rbs>15</rbs>
+    <asts>3</asts>
+    <steals>0</steals>
+    <blocks>1</blocks>
+    <pts>14</pts>
+  </player>
+  <player>
+    <name>Rodney McGruder</name>
+    <rbs>111</rbs>
+    <asts>48</asts>
+    <steals>21</steals>
+    <blocks>7</blocks>
+    <pts>273</pts>
+  </player>
+  <player>
+    <name>Alfonzo McKinnie</name>
+    <rbs>33</rbs>
+    <asts>5</asts>
+    <steals>2</steals>
+    <blocks>3</blocks>
+    <pts>59</pts>
+  </player>
+  <player>
+    <name>JaQuori McLaughlin</name>
+    <rbs>0</rbs>
+    <asts>2</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>Jordan McLaughlin</name>
+    <rbs>94</rbs>
+    <asts>180</asts>
+    <steals>57</steals>
+    <blocks>10</blocks>
+    <pts>233</pts>
+  </player>
+  <player>
+    <name>Ben McLemore</name>
+    <rbs>103</rbs>
+    <asts>59</asts>
+    <steals>38</steals>
+    <blocks>10</blocks>
+    <pts>655</pts>
+  </player>
+  <player>
+    <name>De&apos;Anthony Melton</name>
+    <rbs>328</rbs>
+    <asts>194</asts>
+    <steals>104</steals>
+    <blocks>39</blocks>
+    <pts>791</pts>
+  </player>
+  <player>
+    <name>Sam Merrill</name>
+    <rbs>7</rbs>
+    <asts>4</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>25</pts>
+  </player>
+  <player>
+    <name>Chimezie Metu</name>
+    <rbs>335</rbs>
+    <asts>60</asts>
+    <steals>51</steals>
+    <blocks>32</blocks>
+    <pts>534</pts>
+  </player>
+  <player>
+    <name>Khris Middleton</name>
+    <rbs>356</rbs>
+    <asts>358</asts>
+    <steals>76</steals>
+    <blocks>18</blocks>
+    <pts>1325</pts>
+  </player>
+  <player>
+    <name>C.J. Miles</name>
+    <rbs>0</rbs>
+    <asts>0</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>Patty Mills</name>
+    <rbs>156</rbs>
+    <asts>183</asts>
+    <steals>51</steals>
+    <blocks>17</blocks>
+    <pts>923</pts>
+  </player>
+  <player>
+    <name>Paul Millsap</name>
+    <rbs>114</rbs>
+    <asts>29</asts>
+    <steals>10</steals>
+    <blocks>13</blocks>
+    <pts>115</pts>
+  </player>
+  <player>
+    <name>Shake Milton</name>
+    <rbs>142</rbs>
+    <asts>139</asts>
+    <steals>28</steals>
+    <blocks>17</blocks>
+    <pts>450</pts>
+  </player>
+  <player>
+    <name>Davion Mitchell</name>
+    <rbs>166</rbs>
+    <asts>313</asts>
+    <steals>55</steals>
+    <blocks>24</blocks>
+    <pts>861</pts>
+  </player>
+  <player>
+    <name>Donovan Mitchell</name>
+    <rbs>282</rbs>
+    <asts>358</asts>
+    <steals>99</steals>
+    <blocks>12</blocks>
+    <pts>1733</pts>
+  </player>
+  <player>
+    <name>Evan Mobley</name>
+    <rbs>570</rbs>
+    <asts>174</asts>
+    <steals>56</steals>
+    <blocks>115</blocks>
+    <pts>1034</pts>
+  </player>
+  <player>
+    <name>Malik Monk</name>
+    <rbs>256</rbs>
+    <asts>218</asts>
+    <steals>61</steals>
+    <blocks>29</blocks>
+    <pts>1048</pts>
+  </player>
+  <player>
+    <name>Greg Monroe</name>
+    <rbs>64</rbs>
+    <asts>22</asts>
+    <steals>8</steals>
+    <blocks>10</blocks>
+    <pts>76</pts>
+  </player>
+  <player>
+    <name>Moses Moody</name>
+    <rbs>80</rbs>
+    <asts>23</asts>
+    <steals>7</steals>
+    <blocks>10</blocks>
+    <pts>228</pts>
+  </player>
+  <player>
+    <name>Xavier Moon</name>
+    <rbs>14</rbs>
+    <asts>24</asts>
+    <steals>7</steals>
+    <blocks>3</blocks>
+    <pts>58</pts>
+  </player>
+  <player>
+    <name>Matt Mooney</name>
+    <rbs>0</rbs>
+    <asts>0</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>Ja Morant</name>
+    <rbs>325</rbs>
+    <asts>384</asts>
+    <steals>66</steals>
+    <blocks>22</blocks>
+    <pts>1564</pts>
+  </player>
+  <player>
+    <name>Juwan Morgan</name>
+    <rbs>4</rbs>
+    <asts>1</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>5</pts>
+  </player>
+  <player>
+    <name>Jaylen Morris</name>
+    <rbs>2</rbs>
+    <asts>2</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>2</pts>
+  </player>
+  <player>
+    <name>Marcus Morris</name>
+    <rbs>239</rbs>
+    <asts>113</asts>
+    <steals>28</steals>
+    <blocks>18</blocks>
+    <pts>830</pts>
+  </player>
+  <player>
+    <name>Markieff Morris</name>
+    <rbs>45</rbs>
+    <asts>23</asts>
+    <steals>6</steals>
+    <blocks>1</blocks>
+    <pts>129</pts>
+  </player>
+  <player>
+    <name>Monte Morris</name>
+    <rbs>226</rbs>
+    <asts>333</asts>
+    <steals>56</steals>
+    <blocks>14</blocks>
+    <pts>945</pts>
+  </player>
+  <player>
+    <name>Emmanuel Mudiay</name>
+    <rbs>0</rbs>
+    <asts>4</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>3</pts>
+  </player>
+  <player>
+    <name>Mychal Mulder</name>
+    <rbs>24</rbs>
+    <asts>5</asts>
+    <steals>4</steals>
+    <blocks>2</blocks>
+    <pts>69</pts>
+  </player>
+  <player>
+    <name>Ade Murkey</name>
+    <rbs>0</rbs>
+    <asts>0</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>Trey Murphy III</name>
+    <rbs>147</rbs>
+    <asts>38</asts>
+    <steals>23</steals>
+    <blocks>7</blocks>
+    <pts>334</pts>
+  </player>
+  <player>
+    <name>Dejounte Murray</name>
+    <rbs>563</rbs>
+    <asts>627</asts>
+    <steals>138</steals>
+    <blocks>23</blocks>
+    <pts>1438</pts>
+  </player>
+  <player>
+    <name>Mike Muscala</name>
+    <rbs>129</rbs>
+    <asts>22</asts>
+    <steals>18</steals>
+    <blocks>26</blocks>
+    <pts>344</pts>
+  </player>
+  <player>
+    <name>Svi Mykhailiuk</name>
+    <rbs>92</rbs>
+    <asts>45</asts>
+    <steals>26</steals>
+    <blocks>4</blocks>
+    <pts>255</pts>
+  </player>
+  <player>
+    <name>Abdel Nader</name>
+    <rbs>27</rbs>
+    <asts>7</asts>
+    <steals>8</steals>
+    <blocks>4</blocks>
+    <pts>34</pts>
+  </player>
+  <player>
+    <name>Larry Nance Jr.</name>
+    <rbs>248</rbs>
+    <asts>81</asts>
+    <steals>43</steals>
+    <blocks>20</blocks>
+    <pts>321</pts>
+  </player>
+  <player>
+    <name>RJ Nembhard Jr.</name>
+    <rbs>7</rbs>
+    <asts>12</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>15</pts>
+  </player>
+  <player>
+    <name>Aaron Nesmith</name>
+    <rbs>89</rbs>
+    <asts>22</asts>
+    <steals>20</steals>
+    <blocks>5</blocks>
+    <pts>196</pts>
+  </player>
+  <player>
+    <name>Raul Neto</name>
+    <rbs>134</rbs>
+    <asts>217</asts>
+    <steals>55</steals>
+    <blocks>3</blocks>
+    <pts>526</pts>
+  </player>
+  <player>
+    <name>Malik Newman</name>
+    <rbs>1</rbs>
+    <asts>1</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>8</pts>
+  </player>
+  <player>
+    <name>Georges Niang</name>
+    <rbs>203</rbs>
+    <asts>102</asts>
+    <steals>30</steals>
+    <blocks>13</blocks>
+    <pts>700</pts>
+  </player>
+  <player>
+    <name>Daishen Nix</name>
+    <rbs>33</rbs>
+    <asts>40</asts>
+    <steals>15</steals>
+    <blocks>0</blocks>
+    <pts>77</pts>
+  </player>
+  <player>
+    <name>Zeke Nnaji</name>
+    <rbs>147</rbs>
+    <asts>17</asts>
+    <steals>16</steals>
+    <blocks>13</blocks>
+    <pts>270</pts>
+  </player>
+  <player>
+    <name>Nerlens Noel</name>
+    <rbs>141</rbs>
+    <asts>23</asts>
+    <steals>30</steals>
+    <blocks>31</blocks>
+    <pts>85</pts>
+  </player>
+  <player>
+    <name>Jaylen Nowell</name>
+    <rbs>123</rbs>
+    <asts>130</asts>
+    <steals>27</steals>
+    <blocks>10</blocks>
+    <pts>527</pts>
+  </player>
+  <player>
+    <name>Frank Ntilikina</name>
+    <rbs>79</rbs>
+    <asts>69</asts>
+    <steals>27</steals>
+    <blocks>7</blocks>
+    <pts>240</pts>
+  </player>
+  <player>
+    <name>Jusuf Nurkić</name>
+    <rbs>619</rbs>
+    <asts>157</asts>
+    <steals>62</steals>
+    <blocks>34</blocks>
+    <pts>842</pts>
+  </player>
+  <player>
+    <name>David Nwaba</name>
+    <rbs>151</rbs>
+    <asts>35</asts>
+    <steals>28</steals>
+    <blocks>20</blocks>
+    <pts>233</pts>
+  </player>
+  <player>
+    <name>Jordan Nwora</name>
+    <rbs>221</rbs>
+    <asts>59</asts>
+    <steals>25</steals>
+    <blocks>17</blocks>
+    <pts>487</pts>
+  </player>
+  <player>
+    <name>Royce O&apos;Neale</name>
+    <rbs>368</rbs>
+    <asts>191</asts>
+    <steals>86</steals>
+    <blocks>32</blocks>
+    <pts>570</pts>
+  </player>
+  <player>
+    <name>Semi Ojeleye</name>
+    <rbs>74</rbs>
+    <asts>9</asts>
+    <steals>7</steals>
+    <blocks>6</blocks>
+    <pts>98</pts>
+  </player>
+  <player>
+    <name>Chuma Okeke</name>
+    <rbs>347</rbs>
+    <asts>118</asts>
+    <steals>97</steals>
+    <blocks>42</blocks>
+    <pts>605</pts>
+  </player>
+  <player>
+    <name>Josh Okogie</name>
+    <rbs>70</rbs>
+    <asts>25</asts>
+    <steals>26</steals>
+    <blocks>12</blocks>
+    <pts>133</pts>
+  </player>
+  <player>
+    <name>Onyeka Okongwu</name>
+    <rbs>283</rbs>
+    <asts>53</asts>
+    <steals>31</steals>
+    <blocks>60</blocks>
+    <pts>392</pts>
+  </player>
+  <player>
+    <name>Isaac Okoro</name>
+    <rbs>201</rbs>
+    <asts>121</asts>
+    <steals>56</steals>
+    <blocks>22</blocks>
+    <pts>588</pts>
+  </player>
+  <player>
+    <name>KZ Okpala</name>
+    <rbs>41</rbs>
+    <asts>14</asts>
+    <steals>4</steals>
+    <blocks>7</blocks>
+    <pts>77</pts>
+  </player>
+  <player>
+    <name>Victor Oladipo</name>
+    <rbs>23</rbs>
+    <asts>28</asts>
+    <steals>5</steals>
+    <blocks>1</blocks>
+    <pts>99</pts>
+  </player>
+  <player>
+    <name>Cameron Oliver</name>
+    <rbs>6</rbs>
+    <asts>3</asts>
+    <steals>1</steals>
+    <blocks>1</blocks>
+    <pts>23</pts>
+  </player>
+  <player>
+    <name>Kelly Olynyk</name>
+    <rbs>177</rbs>
+    <asts>111</asts>
+    <steals>31</steals>
+    <blocks>19</blocks>
+    <pts>365</pts>
+  </player>
+  <player>
+    <name>Eugene Omoruyi</name>
+    <rbs>7</rbs>
+    <asts>2</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>7</pts>
+  </player>
+  <player>
+    <name>Miye Oni</name>
+    <rbs>7</rbs>
+    <asts>5</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>5</pts>
+  </player>
+  <player>
+    <name>Cedi Osman</name>
+    <rbs>146</rbs>
+    <asts>135</asts>
+    <steals>52</steals>
+    <blocks>10</blocks>
+    <pts>709</pts>
+  </player>
+  <player>
+    <name>Daniel Oturu</name>
+    <rbs>5</rbs>
+    <asts>0</asts>
+    <steals>0</steals>
+    <blocks>2</blocks>
+    <pts>9</pts>
+  </player>
+  <player>
+    <name>Kelly Oubre Jr.</name>
+    <rbs>302</rbs>
+    <asts>84</asts>
+    <steals>77</steals>
+    <blocks>31</blocks>
+    <pts>1137</pts>
+  </player>
+  <player>
+    <name>Jaysean Paige</name>
+    <rbs>1</rbs>
+    <asts>1</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>Trayvon Palmer</name>
+    <rbs>2</rbs>
+    <asts>0</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>Kevin Pangos</name>
+    <rbs>11</rbs>
+    <asts>30</asts>
+    <steals>3</steals>
+    <blocks>0</blocks>
+    <pts>39</pts>
+  </player>
+  <player>
+    <name>Jabari Parker</name>
+    <rbs>28</rbs>
+    <asts>6</asts>
+    <steals>4</steals>
+    <blocks>1</blocks>
+    <pts>53</pts>
+  </player>
+  <player>
+    <name>Eric Paschall</name>
+    <rbs>106</rbs>
+    <asts>36</asts>
+    <steals>9</steals>
+    <blocks>5</blocks>
+    <pts>334</pts>
+  </player>
+  <player>
+    <name>Chris Paul</name>
+    <rbs>283</rbs>
+    <asts>702</asts>
+    <steals>121</steals>
+    <blocks>20</blocks>
+    <pts>958</pts>
+  </player>
+  <player>
+    <name>Cameron Payne</name>
+    <rbs>175</rbs>
+    <asts>282</asts>
+    <steals>40</steals>
+    <blocks>17</blocks>
+    <pts>626</pts>
+  </player>
+  <player>
+    <name>Elfrid Payton</name>
+    <rbs>88</rbs>
+    <asts>99</asts>
+    <steals>25</steals>
+    <blocks>6</blocks>
+    <pts>150</pts>
+  </player>
+  <player>
+    <name>Gary Payton II</name>
+    <rbs>247</rbs>
+    <asts>64</asts>
+    <steals>96</steals>
+    <blocks>22</blocks>
+    <pts>502</pts>
+  </player>
+  <player>
+    <name>Norvel Pelle</name>
+    <rbs>6</rbs>
+    <asts>0</asts>
+    <steals>0</steals>
+    <blocks>1</blocks>
+    <pts>6</pts>
+  </player>
+  <player>
+    <name>Reggie Perry</name>
+    <rbs>47</rbs>
+    <asts>12</asts>
+    <steals>9</steals>
+    <blocks>6</blocks>
+    <pts>92</pts>
+  </player>
+  <player>
+    <name>Jamorko Pickett</name>
+    <rbs>32</rbs>
+    <asts>7</asts>
+    <steals>0</steals>
+    <blocks>7</blocks>
+    <pts>50</pts>
+  </player>
+  <player>
+    <name>Theo Pinson</name>
+    <rbs>21</rbs>
+    <asts>17</asts>
+    <steals>5</steals>
+    <blocks>2</blocks>
+    <pts>48</pts>
+  </player>
+  <player>
+    <name>Mason Plumlee</name>
+    <rbs>565</rbs>
+    <asts>226</asts>
+    <steals>61</steals>
+    <blocks>52</blocks>
+    <pts>477</pts>
+  </player>
+  <player>
+    <name>Jakob Poeltl</name>
+    <rbs>634</rbs>
+    <asts>189</asts>
+    <steals>45</steals>
+    <blocks>118</blocks>
+    <pts>915</pts>
+  </player>
+  <player>
+    <name>Aleksej Pokusevski</name>
+    <rbs>318</rbs>
+    <asts>131</asts>
+    <steals>39</steals>
+    <blocks>38</blocks>
+    <pts>464</pts>
+  </player>
+  <player>
+    <name>Yves Pons</name>
+    <rbs>12</rbs>
+    <asts>1</asts>
+    <steals>1</steals>
+    <blocks>4</blocks>
+    <pts>13</pts>
+  </player>
+  <player>
+    <name>Jordan Poole</name>
+    <rbs>260</rbs>
+    <asts>304</asts>
+    <steals>60</steals>
+    <blocks>23</blocks>
+    <pts>1405</pts>
+  </player>
+  <player>
+    <name>Kevin Porter Jr.</name>
+    <rbs>267</rbs>
+    <asts>376</asts>
+    <steals>69</steals>
+    <blocks>22</blocks>
+    <pts>949</pts>
+  </player>
+  <player>
+    <name>Michael Porter Jr.</name>
+    <rbs>59</rbs>
+    <asts>17</asts>
+    <steals>10</steals>
+    <blocks>2</blocks>
+    <pts>89</pts>
+  </player>
+  <player>
+    <name>Otto Porter Jr.</name>
+    <rbs>362</rbs>
+    <asts>94</asts>
+    <steals>68</steals>
+    <blocks>29</blocks>
+    <pts>515</pts>
+  </player>
+  <player>
+    <name>Bobby Portis</name>
+    <rbs>657</rbs>
+    <asts>86</asts>
+    <steals>53</steals>
+    <blocks>51</blocks>
+    <pts>1052</pts>
+  </player>
+  <player>
+    <name>Kristaps Porziņģis</name>
+    <rbs>411</rbs>
+    <asts>119</asts>
+    <steals>37</steals>
+    <blocks>84</blocks>
+    <pts>1030</pts>
+  </player>
+  <player>
+    <name>Micah Potter</name>
+    <rbs>9</rbs>
+    <asts>0</asts>
+    <steals>1</steals>
+    <blocks>1</blocks>
+    <pts>12</pts>
+  </player>
+  <player>
+    <name>Dwight Powell</name>
+    <rbs>404</rbs>
+    <asts>97</asts>
+    <steals>37</steals>
+    <blocks>39</blocks>
+    <pts>717</pts>
+  </player>
+  <player>
+    <name>Myles Powell</name>
+    <rbs>6</rbs>
+    <asts>3</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>13</pts>
+  </player>
+  <player>
+    <name>Norman Powell</name>
+    <rbs>145</rbs>
+    <asts>96</asts>
+    <steals>42</steals>
+    <blocks>21</blocks>
+    <pts>853</pts>
+  </player>
+  <player>
+    <name>Joshua Primo</name>
+    <rbs>113</rbs>
+    <asts>81</asts>
+    <steals>20</steals>
+    <blocks>23</blocks>
+    <pts>288</pts>
+  </player>
+  <player>
+    <name>Taurean Prince</name>
+    <rbs>174</rbs>
+    <asts>68</asts>
+    <steals>47</steals>
+    <blocks>23</blocks>
+    <pts>502</pts>
+  </player>
+  <player>
+    <name>Payton Pritchard</name>
+    <rbs>134</rbs>
+    <asts>139</asts>
+    <steals>25</steals>
+    <blocks>6</blocks>
+    <pts>442</pts>
+  </player>
+  <player>
+    <name>Trevelin Queen</name>
+    <rbs>16</rbs>
+    <asts>4</asts>
+    <steals>5</steals>
+    <blocks>1</blocks>
+    <pts>43</pts>
+  </player>
+  <player>
+    <name>Neemias Queta</name>
+    <rbs>31</rbs>
+    <asts>6</asts>
+    <steals>1</steals>
+    <blocks>8</blocks>
+    <pts>45</pts>
+  </player>
+  <player>
+    <name>Immanuel Quickley</name>
+    <rbs>247</rbs>
+    <asts>275</asts>
+    <steals>54</steals>
+    <blocks>3</blocks>
+    <pts>882</pts>
+  </player>
+  <player>
+    <name>Jahmi&apos;us Ramsey</name>
+    <rbs>13</rbs>
+    <asts>7</asts>
+    <steals>1</steals>
+    <blocks>1</blocks>
+    <pts>60</pts>
+  </player>
+  <player>
+    <name>Julius Randle</name>
+    <rbs>716</rbs>
+    <asts>370</asts>
+    <steals>53</steals>
+    <blocks>39</blocks>
+    <pts>1447</pts>
+  </player>
+  <player>
+    <name>Austin Reaves</name>
+    <rbs>193</rbs>
+    <asts>110</asts>
+    <steals>29</steals>
+    <blocks>20</blocks>
+    <pts>444</pts>
+  </player>
+  <player>
+    <name>Cam Reddish</name>
+    <rbs>105</rbs>
+    <asts>48</asts>
+    <steals>47</steals>
+    <blocks>15</blocks>
+    <pts>497</pts>
+  </player>
+  <player>
+    <name>Davon Reed</name>
+    <rbs>108</rbs>
+    <asts>53</asts>
+    <steals>24</steals>
+    <blocks>9</blocks>
+    <pts>209</pts>
+  </player>
+  <player>
+    <name>Paul Reed</name>
+    <rbs>92</rbs>
+    <asts>16</asts>
+    <steals>33</steals>
+    <blocks>14</blocks>
+    <pts>116</pts>
+  </player>
+  <player>
+    <name>Naz Reid</name>
+    <rbs>301</rbs>
+    <asts>71</asts>
+    <steals>40</steals>
+    <blocks>71</blocks>
+    <pts>637</pts>
+  </player>
+  <player>
+    <name>Nick Richards</name>
+    <rbs>86</rbs>
+    <asts>13</asts>
+    <steals>9</steals>
+    <blocks>21</blocks>
+    <pts>150</pts>
+  </player>
+  <player>
+    <name>Josh Richardson</name>
+    <rbs>185</rbs>
+    <asts>115</asts>
+    <steals>56</steals>
+    <blocks>29</blocks>
+    <pts>666</pts>
+  </player>
+  <player>
+    <name>Austin Rivers</name>
+    <rbs>114</rbs>
+    <asts>90</asts>
+    <steals>51</steals>
+    <blocks>6</blocks>
+    <pts>403</pts>
+  </player>
+  <player>
+    <name>Duncan Robinson</name>
+    <rbs>203</rbs>
+    <asts>129</asts>
+    <steals>42</steals>
+    <blocks>14</blocks>
+    <pts>863</pts>
+  </player>
+  <player>
+    <name>Justin Robinson</name>
+    <rbs>21</rbs>
+    <asts>32</asts>
+    <steals>9</steals>
+    <blocks>1</blocks>
+    <pts>78</pts>
+  </player>
+  <player>
+    <name>Mitchell Robinson</name>
+    <rbs>617</rbs>
+    <asts>38</asts>
+    <steals>58</steals>
+    <blocks>133</blocks>
+    <pts>610</pts>
+  </player>
+  <player>
+    <name>Jeremiah Robinson-Earl</name>
+    <rbs>274</rbs>
+    <asts>49</asts>
+    <steals>29</steals>
+    <blocks>15</blocks>
+    <pts>366</pts>
+  </player>
+  <player>
+    <name>Isaiah Roby</name>
+    <rbs>217</rbs>
+    <asts>71</asts>
+    <steals>36</steals>
+    <blocks>34</blocks>
+    <pts>454</pts>
+  </player>
+  <player>
+    <name>Rajon Rondo</name>
+    <rbs>108</rbs>
+    <asts>170</asts>
+    <steals>30</steals>
+    <blocks>6</blocks>
+    <pts>186</pts>
+  </player>
+  <player>
+    <name>Derrick Rose</name>
+    <rbs>78</rbs>
+    <asts>103</asts>
+    <steals>22</steals>
+    <blocks>12</blocks>
+    <pts>311</pts>
+  </player>
+  <player>
+    <name>Terrence Ross</name>
+    <rbs>161</rbs>
+    <asts>116</asts>
+    <steals>28</steals>
+    <blocks>12</blocks>
+    <pts>629</pts>
+  </player>
+  <player>
+    <name>Terry Rozier</name>
+    <rbs>315</rbs>
+    <asts>326</asts>
+    <steals>93</steals>
+    <blocks>25</blocks>
+    <pts>1408</pts>
+  </player>
+  <player>
+    <name>Ricky Rubio</name>
+    <rbs>141</rbs>
+    <asts>225</asts>
+    <steals>49</steals>
+    <blocks>7</blocks>
+    <pts>445</pts>
+  </player>
+  <player>
+    <name>D&apos;Angelo Russell</name>
+    <rbs>216</rbs>
+    <asts>460</asts>
+    <steals>62</steals>
+    <blocks>22</blocks>
+    <pts>1176</pts>
+  </player>
+  <player>
+    <name>Matt Ryan</name>
+    <rbs>0</rbs>
+    <asts>0</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>3</pts>
+  </player>
+  <player>
+    <name>Domantas Sabonis</name>
+    <rbs>752</rbs>
+    <asts>323</asts>
+    <steals>59</steals>
+    <blocks>27</blocks>
+    <pts>1171</pts>
+  </player>
+  <player>
+    <name>Olivier Sarr</name>
+    <rbs>93</rbs>
+    <asts>19</asts>
+    <steals>6</steals>
+    <blocks>15</blocks>
+    <pts>153</pts>
+  </player>
+  <player>
+    <name>Tom� Satoransk�</name>
+    <rbs>126</rbs>
+    <asts>184</asts>
+    <steals>29</steals>
+    <blocks>5</blocks>
+    <pts>198</pts>
+  </player>
+  <player>
+    <name>Jordan Schakel</name>
+    <rbs>8</rbs>
+    <asts>0</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>5</pts>
+  </player>
+  <player>
+    <name>Admiral Schofield</name>
+    <rbs>89</rbs>
+    <asts>25</asts>
+    <steals>4</steals>
+    <blocks>5</blocks>
+    <pts>146</pts>
+  </player>
+  <player>
+    <name>Dennis Schr�der</name>
+    <rbs>214</rbs>
+    <asts>296</asts>
+    <steals>53</steals>
+    <blocks>8</blocks>
+    <pts>867</pts>
+  </player>
+  <player>
+    <name>Tre Scott</name>
+    <rbs>2</rbs>
+    <asts>0</asts>
+    <steals>1</steals>
+    <blocks>1</blocks>
+    <pts>6</pts>
+  </player>
+  <player>
+    <name>Jay Scrubb</name>
+    <rbs>16</rbs>
+    <asts>8</asts>
+    <steals>4</steals>
+    <blocks>3</blocks>
+    <pts>49</pts>
+  </player>
+  <player>
+    <name>Wayne Selden</name>
+    <rbs>1</rbs>
+    <asts>1</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>5</pts>
+  </player>
+  <player>
+    <name>Alperen Şengün</name>
+    <rbs>393</rbs>
+    <asts>185</asts>
+    <steals>59</steals>
+    <blocks>68</blocks>
+    <pts>692</pts>
+  </player>
+  <player>
+    <name>Collin Sexton</name>
+    <rbs>36</rbs>
+    <asts>23</asts>
+    <steals>10</steals>
+    <blocks>0</blocks>
+    <pts>176</pts>
+  </player>
+  <player>
+    <name>Landry Shamet</name>
+    <rbs>126</rbs>
+    <asts>108</asts>
+    <steals>28</steals>
+    <blocks>9</blocks>
+    <pts>573</pts>
+  </player>
+  <player>
+    <name>Day&apos;Ron Sharpe</name>
+    <rbs>160</rbs>
+    <asts>17</asts>
+    <steals>10</steals>
+    <blocks>15</blocks>
+    <pts>198</pts>
+  </player>
+  <player>
+    <name>Pascal Siakam</name>
+    <rbs>580</rbs>
+    <asts>360</asts>
+    <steals>85</steals>
+    <blocks>42</blocks>
+    <pts>1551</pts>
+  </player>
+  <player>
+    <name>Chris Silva</name>
+    <rbs>36</rbs>
+    <asts>7</asts>
+    <steals>0</steals>
+    <blocks>1</blocks>
+    <pts>26</pts>
+  </player>
+  <player>
+    <name>Marko Simonovic</name>
+    <rbs>10</rbs>
+    <asts>0</asts>
+    <steals>1</steals>
+    <blocks>1</blocks>
+    <pts>17</pts>
+  </player>
+  <player>
+    <name>Anfernee Simons</name>
+    <rbs>151</rbs>
+    <asts>221</asts>
+    <steals>30</steals>
+    <blocks>6</blocks>
+    <pts>988</pts>
+  </player>
+  <player>
+    <name>Zavier Simpson</name>
+    <rbs>21</rbs>
+    <asts>30</asts>
+    <steals>5</steals>
+    <blocks>4</blocks>
+    <pts>44</pts>
+  </player>
+  <player>
+    <name>Jericho Sims</name>
+    <rbs>169</rbs>
+    <asts>21</asts>
+    <steals>11</steals>
+    <blocks>22</blocks>
+    <pts>90</pts>
+  </player>
+  <player>
+    <name>Deividas Sirvydis</name>
+    <rbs>6</rbs>
+    <asts>1</asts>
+    <steals>3</steals>
+    <blocks>1</blocks>
+    <pts>3</pts>
+  </player>
+  <player>
+    <name>Javonte Smart</name>
+    <rbs>24</rbs>
+    <asts>16</asts>
+    <steals>6</steals>
+    <blocks>3</blocks>
+    <pts>51</pts>
+  </player>
+  <player>
+    <name>Marcus Smart</name>
+    <rbs>270</rbs>
+    <asts>417</asts>
+    <steals>119</steals>
+    <blocks>18</blocks>
+    <pts>861</pts>
+  </player>
+  <player>
+    <name>Dennis Smith Jr.</name>
+    <rbs>88</rbs>
+    <asts>132</asts>
+    <steals>45</steals>
+    <blocks>12</blocks>
+    <pts>206</pts>
+  </player>
+  <player>
+    <name>Ish Smith</name>
+    <rbs>140</rbs>
+    <asts>244</asts>
+    <steals>47</steals>
+    <blocks>23</blocks>
+    <pts>410</pts>
+  </player>
+  <player>
+    <name>Jalen Smith</name>
+    <rbs>307</rbs>
+    <asts>24</asts>
+    <steals>15</steals>
+    <blocks>41</blocks>
+    <pts>470</pts>
+  </player>
+  <player>
+    <name>Xavier Sneed</name>
+    <rbs>6</rbs>
+    <asts>1</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>5</pts>
+  </player>
+  <player>
+    <name>Tony Snell</name>
+    <rbs>103</rbs>
+    <asts>28</asts>
+    <steals>16</steals>
+    <blocks>9</blocks>
+    <pts>187</pts>
+  </player>
+  <player>
+    <name>Jaden Springer</name>
+    <rbs>2</rbs>
+    <asts>0</asts>
+    <steals>0</steals>
+    <blocks>2</blocks>
+    <pts>2</pts>
+  </player>
+  <player>
+    <name>Cassius Stanley</name>
+    <rbs>19</rbs>
+    <asts>4</asts>
+    <steals>5</steals>
+    <blocks>2</blocks>
+    <pts>52</pts>
+  </player>
+  <player>
+    <name>Nik Stauskas</name>
+    <rbs>3</rbs>
+    <asts>2</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>18</pts>
+  </player>
+  <player>
+    <name>Lance Stephenson</name>
+    <rbs>127</rbs>
+    <asts>165</asts>
+    <steals>24</steals>
+    <blocks>4</blocks>
+    <pts>384</pts>
+  </player>
+  <player>
+    <name>Lamar Stevens</name>
+    <rbs>164</rbs>
+    <asts>44</asts>
+    <steals>31</steals>
+    <blocks>18</blocks>
+    <pts>383</pts>
+  </player>
+  <player>
+    <name>Isaiah Stewart</name>
+    <rbs>617</rbs>
+    <asts>82</asts>
+    <steals>22</steals>
+    <blocks>78</blocks>
+    <pts>589</pts>
+  </player>
+  <player>
+    <name>Max Strus</name>
+    <rbs>202</rbs>
+    <asts>92</asts>
+    <steals>28</steals>
+    <blocks>16</blocks>
+    <pts>721</pts>
+  </player>
+  <player>
+    <name>Jalen Suggs</name>
+    <rbs>171</rbs>
+    <asts>209</asts>
+    <steals>59</steals>
+    <blocks>19</blocks>
+    <pts>564</pts>
+  </player>
+  <player>
+    <name>Craig Sword</name>
+    <rbs>0</rbs>
+    <asts>1</asts>
+    <steals>4</steals>
+    <blocks>0</blocks>
+    <pts>6</pts>
+  </player>
+  <player>
+    <name>Keifer Sykes</name>
+    <rbs>45</rbs>
+    <asts>62</asts>
+    <steals>12</steals>
+    <blocks>4</blocks>
+    <pts>180</pts>
+  </player>
+  <player>
+    <name>Jae&apos;Sean Tate</name>
+    <rbs>420</rbs>
+    <asts>222</asts>
+    <steals>72</steals>
+    <blocks>41</blocks>
+    <pts>919</pts>
+  </player>
+  <player>
+    <name>Jayson Tatum</name>
+    <rbs>609</rbs>
+    <asts>334</asts>
+    <steals>75</steals>
+    <blocks>49</blocks>
+    <pts>2046</pts>
+  </player>
+  <player>
+    <name>Terry Taylor</name>
+    <rbs>172</rbs>
+    <asts>41</asts>
+    <steals>14</steals>
+    <blocks>8</blocks>
+    <pts>318</pts>
+  </player>
+  <player>
+    <name>Garrett Temple</name>
+    <rbs>143</rbs>
+    <asts>74</asts>
+    <steals>43</steals>
+    <blocks>23</blocks>
+    <pts>309</pts>
+  </player>
+  <player>
+    <name>Emanuel Terry</name>
+    <rbs>15</rbs>
+    <asts>2</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>Tyrell Terry</name>
+    <rbs>0</rbs>
+    <asts>0</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>2</pts>
+  </player>
+  <player>
+    <name>Jon Teske</name>
+    <rbs>2</rbs>
+    <asts>1</asts>
+    <steals>1</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>Daniel Theis</name>
+    <rbs>228</rbs>
+    <asts>41</asts>
+    <steals>20</steals>
+    <blocks>31</blocks>
+    <pts>384</pts>
+  </player>
+  <player>
+    <name>Brodric Thomas</name>
+    <rbs>10</rbs>
+    <asts>11</asts>
+    <steals>1</steals>
+    <blocks>1</blocks>
+    <pts>21</pts>
+  </player>
+  <player>
+    <name>Cam Thomas</name>
+    <rbs>161</rbs>
+    <asts>78</asts>
+    <steals>33</steals>
+    <blocks>8</blocks>
+    <pts>570</pts>
+  </player>
+  <player>
+    <name>Isaiah Thomas</name>
+    <rbs>29</rbs>
+    <asts>34</asts>
+    <steals>7</steals>
+    <blocks>5</blocks>
+    <pts>184</pts>
+  </player>
+  <player>
+    <name>Matt Thomas</name>
+    <rbs>50</rbs>
+    <asts>20</asts>
+    <steals>8</steals>
+    <blocks>3</blocks>
+    <pts>161</pts>
+  </player>
+  <player>
+    <name>Klay Thompson</name>
+    <rbs>125</rbs>
+    <asts>88</asts>
+    <steals>16</steals>
+    <blocks>17</blocks>
+    <pts>652</pts>
+  </player>
+  <player>
+    <name>Tristan Thompson</name>
+    <rbs>288</rbs>
+    <asts>34</asts>
+    <steals>23</steals>
+    <blocks>21</blocks>
+    <pts>344</pts>
+  </player>
+  <player>
+    <name>JT Thor</name>
+    <rbs>43</rbs>
+    <asts>19</asts>
+    <steals>8</steals>
+    <blocks>11</blocks>
+    <pts>67</pts>
+  </player>
+  <player>
+    <name>Matisse Thybulle</name>
+    <rbs>151</rbs>
+    <asts>75</asts>
+    <steals>115</steals>
+    <blocks>71</blocks>
+    <pts>379</pts>
+  </player>
+  <player>
+    <name>Killian Tillie</name>
+    <rbs>60</rbs>
+    <asts>22</asts>
+    <steals>23</steals>
+    <blocks>15</blocks>
+    <pts>118</pts>
+  </player>
+  <player>
+    <name>Xavier Tillman Sr.</name>
+    <rbs>161</rbs>
+    <asts>62</asts>
+    <steals>49</steals>
+    <blocks>15</blocks>
+    <pts>252</pts>
+  </player>
+  <player>
+    <name>Isaiah Todd</name>
+    <rbs>12</rbs>
+    <asts>4</asts>
+    <steals>4</steals>
+    <blocks>2</blocks>
+    <pts>20</pts>
+  </player>
+  <player>
+    <name>Obi Toppin</name>
+    <rbs>268</rbs>
+    <asts>77</asts>
+    <steals>25</steals>
+    <blocks>33</blocks>
+    <pts>648</pts>
+  </player>
+  <player>
+    <name>Juan Toscano-Anderson</name>
+    <rbs>176</rbs>
+    <asts>127</asts>
+    <steals>48</steals>
+    <blocks>17</blocks>
+    <pts>298</pts>
+  </player>
+  <player>
+    <name>Karl-Anthony Towns</name>
+    <rbs>727</rbs>
+    <asts>269</asts>
+    <steals>72</steals>
+    <blocks>83</blocks>
+    <pts>1818</pts>
+  </player>
+  <player>
+    <name>Gary Trent Jr.</name>
+    <rbs>191</rbs>
+    <asts>141</asts>
+    <steals>122</steals>
+    <blocks>19</blocks>
+    <pts>1283</pts>
+  </player>
+  <player>
+    <name>P.J. Tucker</name>
+    <rbs>387</rbs>
+    <asts>149</asts>
+    <steals>58</steals>
+    <blocks>15</blocks>
+    <pts>539</pts>
+  </player>
+  <player>
+    <name>Rayjon Tucker</name>
+    <rbs>8</rbs>
+    <asts>10</asts>
+    <steals>4</steals>
+    <blocks>0</blocks>
+    <pts>21</pts>
+  </player>
+  <player>
+    <name>Myles Turner</name>
+    <rbs>297</rbs>
+    <asts>44</asts>
+    <steals>28</steals>
+    <blocks>118</blocks>
+    <pts>540</pts>
+  </player>
+  <player>
+    <name>Jonas Valančiūnas</name>
+    <rbs>843</rbs>
+    <asts>190</asts>
+    <steals>41</steals>
+    <blocks>60</blocks>
+    <pts>1314</pts>
+  </player>
+  <player>
+    <name>Denzel Valentine</name>
+    <rbs>42</rbs>
+    <asts>11</asts>
+    <steals>8</steals>
+    <blocks>0</blocks>
+    <pts>69</pts>
+  </player>
+  <player>
+    <name>Jarred Vanderbilt</name>
+    <rbs>624</rbs>
+    <asts>94</asts>
+    <steals>99</steals>
+    <blocks>46</blocks>
+    <pts>512</pts>
+  </player>
+  <player>
+    <name>Fred VanVleet</name>
+    <rbs>289</rbs>
+    <asts>434</asts>
+    <steals>111</steals>
+    <blocks>35</blocks>
+    <pts>1320</pts>
+  </player>
+  <player>
+    <name>Devin Vassell</name>
+    <rbs>306</rbs>
+    <asts>136</asts>
+    <steals>76</steals>
+    <blocks>41</blocks>
+    <pts>872</pts>
+  </player>
+  <player>
+    <name>Gabe Vincent</name>
+    <rbs>126</rbs>
+    <asts>210</asts>
+    <steals>62</steals>
+    <blocks>12</blocks>
+    <pts>591</pts>
+  </player>
+  <player>
+    <name>Nikola Vučević</name>
+    <rbs>804</rbs>
+    <asts>236</asts>
+    <steals>70</steals>
+    <blocks>71</blocks>
+    <pts>1288</pts>
+  </player>
+  <player>
+    <name>Dean Wade</name>
+    <rbs>150</rbs>
+    <asts>52</asts>
+    <steals>29</steals>
+    <blocks>7</blocks>
+    <pts>269</pts>
+  </player>
+  <player>
+    <name>Franz Wagner</name>
+    <rbs>356</rbs>
+    <asts>231</asts>
+    <steals>68</steals>
+    <blocks>34</blocks>
+    <pts>1197</pts>
+  </player>
+  <player>
+    <name>Moritz Wagner</name>
+    <rbs>232</rbs>
+    <asts>87</asts>
+    <steals>20</steals>
+    <blocks>13</blocks>
+    <pts>564</pts>
+  </player>
+  <player>
+    <name>Ish Wainright</name>
+    <rbs>54</rbs>
+    <asts>15</asts>
+    <steals>20</steals>
+    <blocks>6</blocks>
+    <pts>108</pts>
+  </player>
+  <player>
+    <name>Kemba Walker</name>
+    <rbs>111</rbs>
+    <asts>131</asts>
+    <steals>26</steals>
+    <blocks>7</blocks>
+    <pts>431</pts>
+  </player>
+  <player>
+    <name>Lonnie Walker IV</name>
+    <rbs>181</rbs>
+    <asts>152</asts>
+    <steals>44</steals>
+    <blocks>19</blocks>
+    <pts>849</pts>
+  </player>
+  <player>
+    <name>M.J. Walker</name>
+    <rbs>1</rbs>
+    <asts>1</asts>
+    <steals>2</steals>
+    <blocks>0</blocks>
+    <pts>0</pts>
+  </player>
+  <player>
+    <name>Tyrone Wallace</name>
+    <rbs>8</rbs>
+    <asts>1</asts>
+    <steals>3</steals>
+    <blocks>1</blocks>
+    <pts>17</pts>
+  </player>
+  <player>
+    <name>Derrick Walton</name>
+    <rbs>10</rbs>
+    <asts>21</asts>
+    <steals>7</steals>
+    <blocks>4</blocks>
+    <pts>19</pts>
+  </player>
+  <player>
+    <name>Brad Wanamaker</name>
+    <rbs>39</rbs>
+    <asts>55</asts>
+    <steals>7</steals>
+    <blocks>6</blocks>
+    <pts>83</pts>
+  </player>
+  <player>
+    <name>Duane Washington Jr.</name>
+    <rbs>83</rbs>
+    <asts>85</asts>
+    <steals>26</steals>
+    <blocks>3</blocks>
+    <pts>473</pts>
+  </player>
+  <player>
+    <name>P.J. Washington</name>
+    <rbs>337</rbs>
+    <asts>147</asts>
+    <steals>57</steals>
+    <blocks>61</blocks>
+    <pts>668</pts>
+  </player>
+  <player>
+    <name>Yuta Watanabe</name>
+    <rbs>92</rbs>
+    <asts>21</asts>
+    <steals>11</steals>
+    <blocks>16</blocks>
+    <pts>163</pts>
+  </player>
+  <player>
+    <name>Lindy Waters III</name>
+    <rbs>73</rbs>
+    <asts>24</asts>
+    <steals>19</steals>
+    <blocks>8</blocks>
+    <pts>199</pts>
+  </player>
+  <player>
+    <name>Tremont Waters</name>
+    <rbs>4</rbs>
+    <asts>7</asts>
+    <steals>5</steals>
+    <blocks>0</blocks>
+    <pts>10</pts>
+  </player>
+  <player>
+    <name>Trendon Watford</name>
+    <rbs>199</rbs>
+    <asts>81</asts>
+    <steals>25</steals>
+    <blocks>28</blocks>
+    <pts>364</pts>
+  </player>
+  <player>
+    <name>Paul Watson</name>
+    <rbs>27</rbs>
+    <asts>8</asts>
+    <steals>3</steals>
+    <blocks>3</blocks>
+    <pts>31</pts>
+  </player>
+  <player>
+    <name>Quinndary Weatherspoon</name>
+    <rbs>14</rbs>
+    <asts>5</asts>
+    <steals>1</steals>
+    <blocks>1</blocks>
+    <pts>30</pts>
+  </player>
+  <player>
+    <name>Russell Westbrook</name>
+    <rbs>580</rbs>
+    <asts>550</asts>
+    <steals>75</steals>
+    <blocks>20</blocks>
+    <pts>1441</pts>
+  </player>
+  <player>
+    <name>Coby White</name>
+    <rbs>182</rbs>
+    <asts>176</asts>
+    <steals>29</steals>
+    <blocks>11</blocks>
+    <pts>772</pts>
+  </player>
+  <player>
+    <name>Derrick White</name>
+    <rbs>261</rbs>
+    <asts>366</asts>
+    <steals>64</steals>
+    <blocks>58</blocks>
+    <pts>992</pts>
+  </player>
+  <player>
+    <name>Hassan Whiteside</name>
+    <rbs>494</rbs>
+    <asts>26</asts>
+    <steals>22</steals>
+    <blocks>103</blocks>
+    <pts>534</pts>
+  </player>
+  <player>
+    <name>Joe Wieskamp</name>
+    <rbs>14</rbs>
+    <asts>9</asts>
+    <steals>4</steals>
+    <blocks>3</blocks>
+    <pts>61</pts>
+  </player>
+  <player>
+    <name>Aaron Wiggins</name>
+    <rbs>178</rbs>
+    <asts>68</asts>
+    <steals>30</steals>
+    <blocks>10</blocks>
+    <pts>416</pts>
+  </player>
+  <player>
+    <name>Andrew Wiggins</name>
+    <rbs>325</rbs>
+    <asts>161</asts>
+    <steals>76</steals>
+    <blocks>51</blocks>
+    <pts>1256</pts>
+  </player>
+  <player>
+    <name>Lindell Wigginton</name>
+    <rbs>25</rbs>
+    <asts>23</asts>
+    <steals>5</steals>
+    <blocks>1</blocks>
+    <pts>80</pts>
+  </player>
+  <player>
+    <name>Brandon Williams</name>
+    <rbs>74</rbs>
+    <asts>94</asts>
+    <steals>24</steals>
+    <blocks>10</blocks>
+    <pts>309</pts>
+  </player>
+  <player>
+    <name>Grant Williams</name>
+    <rbs>274</rbs>
+    <asts>78</asts>
+    <steals>38</steals>
+    <blocks>57</blocks>
+    <pts>602</pts>
+  </player>
+  <player>
+    <name>Kenrich Williams</name>
+    <rbs>220</rbs>
+    <asts>108</asts>
+    <steals>44</steals>
+    <blocks>10</blocks>
+    <pts>363</pts>
+  </player>
+  <player>
+    <name>Lou Williams</name>
+    <rbs>87</rbs>
+    <asts>105</asts>
+    <steals>28</steals>
+    <blocks>3</blocks>
+    <pts>354</pts>
+  </player>
+  <player>
+    <name>Patrick Williams</name>
+    <rbs>69</rbs>
+    <asts>15</asts>
+    <steals>9</steals>
+    <blocks>9</blocks>
+    <pts>153</pts>
+  </player>
+  <player>
+    <name>Robert Williams</name>
+    <rbs>588</rbs>
+    <asts>121</asts>
+    <steals>56</steals>
+    <blocks>134</blocks>
+    <pts>607</pts>
+  </player>
+  <player>
+    <name>Ziaire Williams</name>
+    <rbs>129</rbs>
+    <asts>65</asts>
+    <steals>35</steals>
+    <blocks>12</blocks>
+    <pts>501</pts>
+  </player>
+  <player>
+    <name>D.J. Wilson</name>
+    <rbs>16</rbs>
+    <asts>5</asts>
+    <steals>5</steals>
+    <blocks>1</blocks>
+    <pts>30</pts>
+  </player>
+  <player>
+    <name>Dylan Windler</name>
+    <rbs>89</rbs>
+    <asts>34</asts>
+    <steals>14</steals>
+    <blocks>3</blocks>
+    <pts>110</pts>
+  </player>
+  <player>
+    <name>Justise Winslow</name>
+    <rbs>202</rbs>
+    <asts>84</asts>
+    <steals>35</steals>
+    <blocks>25</blocks>
+    <pts>274</pts>
+  </player>
+  <player>
+    <name>Cassius Winston</name>
+    <rbs>1</rbs>
+    <asts>7</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>14</pts>
+  </player>
+  <player>
+    <name>Christian Wood</name>
+    <rbs>686</rbs>
+    <asts>155</asts>
+    <steals>54</steals>
+    <blocks>65</blocks>
+    <pts>1218</pts>
+  </player>
+  <player>
+    <name>Robert Woodard II</name>
+    <rbs>11</rbs>
+    <asts>3</asts>
+    <steals>1</steals>
+    <blocks>1</blocks>
+    <pts>7</pts>
+  </player>
+  <player>
+    <name>Delon Wright</name>
+    <rbs>220</rbs>
+    <asts>188</asts>
+    <steals>93</steals>
+    <blocks>19</blocks>
+    <pts>342</pts>
+  </player>
+  <player>
+    <name>McKinley Wright IV</name>
+    <rbs>0</rbs>
+    <asts>3</asts>
+    <steals>0</steals>
+    <blocks>0</blocks>
+    <pts>5</pts>
+  </player>
+  <player>
+    <name>Moses Wright</name>
+    <rbs>3</rbs>
+    <asts>2</asts>
+    <steals>0</steals>
+    <blocks>1</blocks>
+    <pts>5</pts>
+  </player>
+  <player>
+    <name>Gabe York</name>
+    <rbs>2</rbs>
+    <asts>4</asts>
+    <steals>2</steals>
+    <blocks>1</blocks>
+    <pts>8</pts>
+  </player>
+  <player>
+    <name>Thaddeus Young</name>
+    <rbs>208</rbs>
+    <asts>104</asts>
+    <steals>54</steals>
+    <blocks>18</blocks>
+    <pts>322</pts>
+  </player>
+  <player>
+    <name>Trae Young</name>
+    <rbs>284</rbs>
+    <asts>737</asts>
+    <steals>72</steals>
+    <blocks>7</blocks>
+    <pts>2155</pts>
+  </player>
+  <player>
+    <name>Omer Yurtseven</name>
+    <rbs>294</rbs>
+    <asts>49</asts>
+    <steals>17</steals>
+    <blocks>20</blocks>
+    <pts>299</pts>
+  </player>
+  <player>
+    <name>Cody Zeller</name>
+    <rbs>125</rbs>
+    <asts>22</asts>
+    <steals>8</steals>
+    <blocks>6</blocks>
+    <pts>140</pts>
+  </player>
+  <player>
+    <name>Ivica Zubac</name>
+    <rbs>644</rbs>
+    <asts>120</asts>
+    <steals>36</steals>
+    <blocks>77</blocks>
+    <pts>785</pts>
+  </player>
+</root>
